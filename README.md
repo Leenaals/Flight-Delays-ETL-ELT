@@ -1,4 +1,4 @@
-# ✈️ Flight Delays ETL & ELT Pipeline
+
 
 A data engineering project that implements and compares **ETL** (Extract, Transform, Load) and **ELT** (Extract, Load, Transform) pipelines to process and analyze flight delay data from multiple sources.
 
@@ -58,7 +58,7 @@ Both pipelines produce a structured dataset used to build **Power BI dashboards*
 2. **Transform (inside the warehouse)** — Use SQL (`COALESCE`, `CASE`, `UNION ALL`) to clean missing values, standardize text, calculate `total_delay`, classify `delay_status`, and merge both sources into a final table: `final_flight_delays`.
 3. **Export** — Export the transformed table to CSV/Excel for Power BI reporting.
 
-The ELT workflow was also automated using a Python script (`elt_automation.py`) scheduled via **Windows Task Scheduler**.
+The ELT workflow was also automated using a Python script (`elt_automation.py`) scheduled via **Windows Task Scheduler**. *(This automation script is documented in the project report but is not included in this repository.)*
 
 ---
 
@@ -132,3 +132,5 @@ Then run the SQL script in `ELT.txt` inside the Neon SQL editor to generate the 
 - [Neon — Serverless PostgreSQL Documentation](https://neon.tech/docs)
 - [SQLite Documentation](https://www.sqlite.org/docs.html)
 - [Microsoft Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)
+
+
