@@ -116,15 +116,7 @@ Then run the SQL script in `ELT.txt` inside the Neon SQL editor to generate the 
 
 ---
 
-## 👥 Team
-
-| Student Name | Student ID |
-|---|---|
-| Layan Almarshud | 445008545 |
-| Leena Alsaif | 445008612 |
-| Majd Alasmari | 443007450 |
-| Shahad Alasmari | 443007451 |
-| Shouq Faisal | 445008564 |
+## 👥 Project Info
 
 **Course:** Data Engineering – DS437
 **Instructor:** Dr. Shakila
