@@ -1,4 +1,4 @@
-
+# ✈️ Flight Delays ETL & ELT Pipeline
 
 A data engineering project that implements and compares **ETL** (Extract, Transform, Load) and **ELT** (Extract, Load, Transform) pipelines to process and analyze flight delay data from multiple sources.
 
@@ -132,5 +132,7 @@ Then run the SQL script in `ELT.txt` inside the Neon SQL editor to generate the 
 - [Neon — Serverless PostgreSQL Documentation](https://neon.tech/docs)
 - [SQLite Documentation](https://www.sqlite.org/docs.html)
 - [Microsoft Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)
+
+
 
 
