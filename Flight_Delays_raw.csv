@@ -1,0 +1,511 @@
+Flight_Date,Airline_Name,Origin_City,Destination_City,Scheduled_Departure_Time,Actual_Departure_Time,Departure_Delay_Minutes,Scheduled_Arrival_Time,Actual_Arrival_Time,Arrival_Delay_Minutes,Cancelled_Flag,Cancellation_Code,Diverted_Flag,Scheduled_Elapsed_Time_Minutes,Actual_Elapsed_Time_Minutes,Carrier_Delay_HH_MM,Weather_Delay_HH_MM,NAS_Delay_HH_MM,Security_Delay_HH_MM,Late_Aircraft_Delay_HH_MM
+12/3/2019,JetBlue Airways,"Fort Lauderdale, FL","Boston, MA",6:10,6:03,-7,9:14,10:18,64,Not Cancelled,Not Cancelled,Not Diverted,184,255,26:04:00,4:44,1:04,1:38,3:37
+1/26/2019,American Airlines Inc.,"Las Vegas, NV","Miami, FL",12:38,12:32,-6,20:20,20:15,-5,Not Cancelled,Not Cancelled,Not Diverted,282,283,30:38:00,14:28,2:50,4:39,8:23
+8/25/2023,Alaska Airlines Inc.,"Seattle, WA","Pittsburgh, PA",9:35,9:27,-8,17:14,16:51,-23,Not Cancelled,Not Cancelled,Not Diverted,279,264,8:27,16:37,3:22,4:52,1:49
+10/24/2021,Endeavor Air Inc.,"New York, NY","Richmond, VA",0:00,12:33,-10,14:10,13:51,-19,Not Cancelled,Not Cancelled,Not Diverted,87,78,44:52:00,4:48,4:39,2:49,10:38
+2/14/2023,Alaska Airlines Inc.,"Los Angeles, CA","Seattle, WA",10:50,12:31,101,13:48,16:08,140,Not Cancelled,Not Cancelled,Not Diverted,178,217,28:40:00,21:38,0:39,4:13,1:41
+1/23/2023,Alaska Airlines Inc.,"Cordova, AK","Anchorage, AK",13:49,13:28,-21,14:42,14:22,-20,Not Cancelled,Not Cancelled,Not Diverted,53,54,7:39,13:11,3:50,1:53,13:31
+8/20/2021,American Airlines Inc.,"Washington, DC","Dallas/Fort Worth, TX",7:00,6:52,-8,9:19,9:12,-7,Not Cancelled,Not Cancelled,Not Diverted,199,200,17:54,1:26,10:42,3:56,2:44
+7/8/2023,United Air Lines Inc.,"Chicago, IL","Salt Lake City, UT",9:02,9:00,-2,11:32,12:03,31,Not Cancelled,Not Cancelled,Not Diverted,210,243,36:53:00,6:11,0:31,2:13,21:13
+12/30/2021,SkyWest Airlines Inc.,"Reno, NV","San Francisco, CA",14:28,14:25,-3,15:52,15:54,2,Not Cancelled,Not Cancelled,Not Diverted,84,89,27:22:00,12:49,9:15,2:06,2:16
+9/22/2019,United Air Lines Inc.,"Boston, MA","Newark, NJ",14:00,13:55,-5,15:23,15:17,-6,Not Cancelled,Not Cancelled,Not Diverted,83,82,40:18:00,19:48,12:43,3:20,24:32:00
+1/2/2022,United Air Lines Inc.,"Denver, CO","New York, NY",16:20,17:43,83,21:57,22:55,58,Not Cancelled,Not Cancelled,Not Diverted,217,192,0:18,10:31,3:28,3:08,0:40
+2/18/2019,American Airlines Inc.,"Dallas/Fort Worth, TX","Miami, FL",14:30,15:59,89,18:13,19:29,76,Not Cancelled,Not Cancelled,Not Diverted,163,150,0:02,8:26,9:21,2:43,1:14
+4/6/2022,PSA Airlines Inc.,"Charlotte, NC","Gulfport/Biloxi, MS",9:08,9:04,-4,10:17,10:08,-9,Not Cancelled,Not Cancelled,Not Diverted,129,124,15:38,18:33,2:22,3:34,0:31
+1/22/2021,SkyWest Airlines Inc.,"Fresno, CA","Phoenix, AZ",16:23,18:39,136,19:03,21:13,130,Not Cancelled,Not Cancelled,Not Diverted,100,94,2:10,22:48,0:17,4:31,4:50
+9/6/2020,Republic Airline,"Chicago, IL",Unknown,20:00,19:53,-7,21:59,21:43,-16,Not Cancelled,Not Cancelled,Not Diverted,59,50,45:08:00,4:13,5:34,1:38,19:34
+3/2/2019,United Air Lines Inc.,"Chicago, IL","San Francisco, CA",6:39,6:39,0,9:21,9:51,30,Not Cancelled,Not Cancelled,Not Diverted,282,312,44:17:00,16:32,0:30,1:45,25:12:00
+9/16/2022,PSA Airlines Inc.,"Philadelphia, PA","Indianapolis, IN",8:26,8:21,-5,10:35,10:15,-20,Not Cancelled,Not Cancelled,Not Diverted,129,114,1:18,12:32,7:48,1:46,21:20
+11/13/2020,Endeavor Air Inc.,"Bloomington/Normal, IL","Atlanta, GA",6:15,6:08,-7,9:05,9:02,-3,Not Cancelled,Not Cancelled,Not Diverted,110,114,10:13,9:21,13:05,3:03,2:31
+10/20/2021,American Airlines Inc.,"Phoenix, AZ","Albuquerque, NM",17:05,16:58,-7,19:17,19:03,-14,Not Cancelled,Not Cancelled,Not Diverted,72,65,14:56,17:26,3:12,2:57,2:50
+10/25/2021,PSA Airlines Inc.,"Norfolk, VA","Philadelphia, PA",18:25,18:16,-9,19:36,20:21,45,Not Cancelled,Not Cancelled,Not Diverted,71,125,48:45:00,19:52,0:45,2:17,9:32
+8/28/2022,American Airlines Inc.,"New York, NY","Dallas/Fort Worth, TX",14:55,15:45,50,17:46,18:20,34,Not Cancelled,Not Cancelled,Not Diverted,231,215,0:01,21:44,7:00,4:07,0:33
+6/2/2021,,"Pasco/Kennewick/Richland, WA","Seattle, WA",11:55,12:05,10,13:00,13:06,6,Not Cancelled,Not Cancelled,Not Diverted,65,61,22:16,13:51,5:47,0:08,11:32
+3/16/2023,Delta Air Lines Inc.,"Nashville, TN","Los Angeles, CA",6:10,6:05,-5,9:05,8:42,-23,Not Cancelled,Not Cancelled,Not Diverted,295,277,34:15:00,11:56,7:36,2:14,27:50:00
+11/15/2019,Envoy Air,"Fargo, ND","Dallas/Fort Worth, TX",6:52,0:00,-12,9:46,9:07,-39,Not Cancelled,Not Cancelled,Not Diverted,174,147,26:11:00,18:57,11:33,0:54,4:51
+6/5/2019,delta Air Lines Inc.,"Los Angeles, CA","Salt Lake City, UT",13:25,13:25,0,16:18,16:11,-7,Not Cancelled,Not Cancelled,Not Diverted,113,106,26:34:00,8:34,2:50,0:16,1:20
+11/15/2021,American Airlines Inc.,"Dallas/Fort Worth, TX","Denver, CO",18:51,18:53,2,20:05,19:54,-11,Not Cancelled,Not Cancelled,Not Diverted,134,121,32:22:00,14:28,7:08,2:54,15:26
+8/1/2021,Southwest Airlines Co.,"Baltimore, MD","Nashville, TN",19:10,19:10,0,20:00,20:04,4,Not Cancelled,Not Cancelled,Not Diverted,110,114,27:59:00,21:48,11:37,4:39,18:26
+8/3/2020,Mesa Airlines Inc.,"Rapid City, SD","Dallas/Fort Worth, TX",6:30,6:25,-5,9:47,9:29,-18,Not Cancelled,Not Cancelled,Not Diverted,137,124,5:45,5:17,5:42,3:08,12:37
+6/1/2023,SkyWest Airlines Inc.,"Victoria, TX","Houston, TX",15:55,16:05,10,16:49,16:44,-5,Not Cancelled,Not Cancelled,Not Diverted,54,39,47:18:00,1:30,6:42,1:17,2:37
+6/25/2022,American Airlines Inc.,"Dallas/Fort Worth, TX","Omaha, NE",12:56,12:51,-5,14:39,14:31,-8,Not Cancelled,Not Cancelled,Not Diverted,103,100,1:47,10:03,7:06,0:46,8:22
+3/5/2023,,"Boise, ID","Sacramento, CA",18:15,18:32,17,18:40,19:16,36,Not Cancelled,Not Cancelled,Not Diverted,85,104,23:53,20:37,0:19,1:13,0:17
+6/11/2019,Envoy Air,"Evansville, IN","Chicago, IL",5:43,5:36,-7,7:22,7:05,-17,Not Cancelled,Not Cancelled,Not Diverted,99,89,37:31:00,1:37,5:08,1:18,20:05
+6/7/2019,American Airlines Inc.,"Philadelphia, PA","Tampa, FL",8:30,8:55,25,11:19,11:47,28,Not Cancelled,Not Cancelled,Not Diverted,169,172,0:25,13:58,0:03,1:06,9:41
+5/7/2022,Hawaiian Airlines Inc.,"Las Vegas, NV","Honolulu, HI",1:45,1:37,-8,5:05,4:52,-13,Not Cancelled,Not Cancelled,Not Diverted,380,375,4:47,11:53,13:33,2:40,27:35:00
+4/12/2023,Spirit Air Lines,"Detroit, MI","Tampa, FL",18:41,18:38,-3,21:18,21:16,-2,Not Cancelled,Not Cancelled,Not Diverted,157,158,30:52:00,4:53,1:50,2:14,14:52
+6/22/2022,Spirit Air Lines,"Fort Lauderdale, FL","Orlando, FL",8:25,8:21,-4,9:38,9:23,-15,Not Cancelled,Not Cancelled,Not Diverted,73,62,32:04:00,9:50,10:08,2:48,26:04:00
+8/26/2021,Endeavor Air Inc.,"Atlanta, GA","Baton Rouge, LA",11:24,11:25,1,11:52,11:40,-12,Not Cancelled,Not Cancelled,Not Diverted,88,75,13:29,10:25,8:58,0:34,24:46:00
+5/20/2020,Southwest Airlines Co.,"Baltimore, MD","Hartford, CT",20:55,20:50,-5,22:10,21:55,-15,Not Cancelled,Not Cancelled,Not Diverted,75,65,7:34,22:08,8:28,4:57,16:51
+5/31/2022,Endeavor Air Inc.,"Atlanta, GA","Brunswick, GA",10:30,10:27,-3,11:40,11:29,-11,Not Cancelled,Not Cancelled,Not Diverted,70,62,17:28,12:49,14:15,2:03,18:54
+12/27/2021,Alaska Airlines Inc.,"Seattle, WA","Anchorage, AK",14:15,13:24,-2,17:03,15:06,-7,Cancelled,Airline/Carrier,Not Diverted,228,120,3:43,2:38,4:47,0:41,2:46
+6/8/2023,Hawaiian Airlines Inc.,"Honolulu, HI","Hilo, HI",10:45,10:49,4,11:44,11:49,5,Not Cancelled,Not Cancelled,Not Diverted,59,60,25:42:00,4:25,0:23,4:30,18:04
+12/6/2019,Delta Air Lines Inc.,"Raleigh/Durham, NC","Seattle, WA",7:15,7:10,-5,10:27,9:56,-31,Not Cancelled,Not Cancelled,Not Diverted,372,346,37:31:00,22:21,11:18,1:26,11:47
+12/20/2020,Alaska Airlines Inc.,"Las Vegas, NV","Portland, OR",7:00,6:51,-9,9:27,9:06,-21,Not Cancelled,Not Cancelled,Not Diverted,147,135,17:27,13:39,9:15,2:44,5:19
+5/9/2022,Alaska Airlines Inc.,Unknown,"Burbank, CA",17:10,17:06,-4,19:19,19:22,3,Not Cancelled,Not Cancelled,Not Diverted,129,136,14:27,16:29,5:08,0:17,11:55
+7/18/2022,Spirit Air Lines,"Baltimore, MD","Orlando, FL",14:13,15:50,97,16:39,18:07,88,Not Cancelled,Not Cancelled,Not Diverted,146,137,27:31:00,2:17,0:50,1:20,0:38
+7/13/2022,Spirit Air Lines,"Hartford, CT","Miami, FL",16:05,16:04,-1,19:25,19:46,21,Not Cancelled,Not Cancelled,Not Diverted,200,222,35:41:00,21:23,0:21,3:01,15:23
+5/1/2021,JetBlue Airways,"Boston, MA","San Diego, CA",9:45,9:41,-4,13:21,12:43,-38,Not Cancelled,Not Cancelled,Not Diverted,396,362,5:18,17:12,4:32,1:51,16:52
+12/7/2019,Hawaiian Airlines Inc.,"Honolulu, HI","Lihue, HI",10:22,10:30,8,11:03,11:11,8,Not Cancelled,Not Cancelled,Not Diverted,41,41,2:21,12:21,11:38,4:42,15:56
+6/3/2019,Southwest Airlines Co.,"Phoenix, AZ","Ontario, CA",21:30,22:07,37,22:35,23:09,34,Not Cancelled,Not Cancelled,Not Diverted,65,62,0:03,17:51,8:42,0:37,0:31
+3/31/2022,Southwest Airlines Co.,"Charleston, SC","Dallas, TX",17:05,17:20,15,19:00,19:21,21,Not Cancelled,Not Cancelled,Not Diverted,175,181,7:46,6:39,0:06,5:00,0:15
+7/23/2021,SkyWest Airlines Inc.,"Prescott, AZ","Denver, CO",17:15,18:18,63,19:59,21:20,81,Not Cancelled,Not Cancelled,Not Diverted,104,122,21:00,16:20,2:30,2:11,1:21
+4/24/2019,Envoy Air,"Columbus, OH","Chicago, IL",10:38,10:36,-2,11:09,11:00,-9,Not Cancelled,Not Cancelled,Not Diverted,91,84,9:54,12:36,8:54,3:13,14:55
+12/10/2019,United Air Lines Inc.,"Denver, CO","Chicago, IL",11:00,13:45,165,14:28,16:56,148,Not Cancelled,Not Cancelled,Not Diverted,148,131,22:41,11:16,8:38,4:35,2:28
+3/9/2020,Endeavor Air Inc.,"Atlanta, GA","Gainesville, FL",9:29,9:25,-4,10:49,10:34,-15,Not Cancelled,Not Cancelled,Not Diverted,80,69,48:26:00,6:24,10:54,2:42,12:18
+3/6/2020,American Airlines Inc.,"Washington, DC","Charlotte, NC",6:50,6:44,-6,8:19,8:48,29,Not Cancelled,Not Cancelled,Not Diverted,89,124,41:56:00,16:08,0:29,4:53,12:35
+11/4/2021,SkyWest Airlines Inc.,"St. George, UT","Phoenix, AZ",11:00,10:55,-5,11:10,10:53,-17,Not Cancelled,Not Cancelled,Not Diverted,70,58,0:25,18:07,13:37,1:18,4:05
+11/13/2020,Delta Air Lines Inc.,"Atlanta, GA",,15:10,15:49,39,16:18,17:05,47,Not Cancelled,Not Cancelled,Not Diverted,128,136,0:39,18:11,0:08,4:46,2:33
+8/16/2019,Spirit Air Lines,"Las Vegas, NV","Seattle, WA",16:41,16:33,-8,19:17,19:13,-4,Not Cancelled,Not Cancelled,Not Diverted,156,160,13:06,13:49,9:53,0:02,4:50
+11/5/2019,Hawaiian Airlines Inc.,"Los Angeles, CA","Lihue, HI",9:00,8:58,-2,13:10,12:59,-11,Not Cancelled,Not Cancelled,Not Diverted,370,361,1:08,18:23,8:21,1:48,18:23
+12/21/2020,Mesa Airlines Inc.,"Dallas/Fort Worth, TX","Bakersfield, CA",9:05,9:03,-2,10:47,10:45,-2,Not Cancelled,Not Cancelled,Not Diverted,222,222,32:50:00,4:53,5:46,0:18,26:02:00
+12/20/2021,SkyWest Airlines Inc.,"Los Angeles, CA","Sacramento, CA",17:55,18:01,6,19:35,19:21,-14,Not Cancelled,Not Cancelled,Not Diverted,100,80,11:51,4:31,8:50,2:54,4:33
+10/27/2021,Southwest Airlines Co.,"Austin, TX","Baltimore, MD",5:55,6:13,18,10:05,10:14,9,Not Cancelled,Not Cancelled,Not Diverted,190,181,8:34,10:12,12:31,2:59,23:11
+1/29/2020,SkyWest Airlines Inc.,"Dallas/Fort Worth, TX","Charlotte, NC+D64",11:32,11:27,-5,12:50,12:28,-22,Not Cancelled,Not Cancelled,Not Diverted,138,121,17:02,8:23,4:26,1:50,15:15
+1/24/2022,Southwest Airlines Co.,"Indianapolis, IN","Orlando, FL",20:45,20:33,-12,23:10,22:32,-38,Not Cancelled,Not Cancelled,Not Diverted,145,119,17:30,3:27,4:39,4:43,20:04
+1/21/2020,Republic Airline,"Washington, DC","Indianapolis, IN",8:35,8:29,-6,10:42,9:56,-46,Not Cancelled,Not Cancelled,Not Diverted,127,87,8:07,13:54,10:59,4:05,0:52
+4/29/2022,Mesa Airlines Inc.,"Houston, TX","El Paso, TX",12:21,12:14,-7,13:23,13:05,-18,Not Cancelled,Not Cancelled,Not Diverted,122,111,35:24:00,3:08,10:46,3:24,5:14
+2/6/2022,American Airlines Inc.,"Las Vegas, NV","Phoenix, AZ",19:43,19:39,-4,21:51,21:43,-8,Not Cancelled,Not Cancelled,Not Diverted,68,64,31:10:00,18:22,7:33,3:33,3:56
+9/23/2021,American Airlines Inc.,"Colorado Springs, CO","Dallas/Fort Worth, TX",6:15,6:07,-8,9:08,8:54,-14,Not Cancelled,Not Cancelled,Not Diverted,113,107,36:38:00,20:39,12:05,0:48,12:43
+7/12/2022,Southwest Airlines Co.,"Phoenix, AZ","San Jose, CA",21:00,21:41,41,22:45,23:25,40,Not Cancelled,Not Cancelled,Not Diverted,105,104,0:40,23:07,12:07,0:29,4:54
+9/25/2022,United Air Lines Inc.,"Denver, CO","Newark, NJ",12:20,12:30,10,17:52,18:09,17,Not Cancelled,Not Cancelled,Not Diverted,212,219,0:10,22:39,0:07,1:44,9:09
+12/28/2020,Southwest Airlines Co.,"San Jose, CA","Phoenix, AZ",18:40,18:33,-7,21:30,21:11,-19,Not Cancelled,Not Cancelled,Not Diverted,110,98,19:50,21:33,12:30,2:30,1:31
+3/3/2023,JetBlue Airways,"New York, NY","Rochester, NY",14:59,14:56,-3,16:23,16:10,-13,Not Cancelled,Not Cancelled,Not Diverted,84,74,13:56,20:52,11:27,3:55,15:50
+7/28/2021,Southwest Airlines Co.,"Chicago, IL","San Jose, CA",18:05,18:10,5,20:30,20:08,-22,Not Cancelled,Not Cancelled,Not Diverted,265,238,35:15:00,21:45,3:02,2:07,28:13:00
+2/4/2019,American Airlines Inc.,"Albany, NY","Charlotte, NC",19:09,19:04,-5,21:35,21:08,-27,Not Cancelled,Not Cancelled,Not Diverted,146,124,2:37,14:45,11:55,2:05,28:03:00
+9/19/2021,united air lines Inc.,"Austin, TX","San Francisco, CA",19:16,19:13,-3,21:12,20:52,-20,Not Cancelled,Not Cancelled,Not Diverted,236,219,29:34:00,8:54,14:39,3:54,20:31
+8/30/2021,United Air Lines Inc.,"Denver, CO","Spokane, WA",19:55,19:47,-8,21:12,21:07,-5,Not Cancelled,Not Cancelled,Not Diverted,137,140,26:02:00,6:00,4:59,2:50,17:51
+11/4/2021,United Air Lines Inc.,"San Francisco, CA","Santa Ana, CA",13:20,,-4,14:53,14:38,-15,Not Cancelled,Not Cancelled,Not Diverted,93,82,18:37,0:58,12:02,0:58,4:58
+3/26/2019,American Airlines Inc.,"Charlotte, NC","Dallas/Fort Worth, TX",11:55,12:15,20,13:59,14:06,7,Not Cancelled,Not Cancelled,Not Diverted,184,171,32:41:00,23:02,14:21,3:52,12:20
+2/22/2019,Envoy Air,"Chicago, IL","Grand Rapids, MI",11:45,11:42,-3,13:38,13:39,1,Not Cancelled,Not Cancelled,Not Diverted,53,57,40:15:00,18:40,4:29,4:01,5:50
+1/9/2022,SkyWest Airlines Inc.,"Salt Lake City, UT","Burbank, CA",11:30,11:26,-4,12:35,12:13,-22,Not Cancelled,Not Cancelled,Not Diverted,125,107,16:06,5:54,0:56,4:17,13:38
+5/8/2019,PSA Airlines Inc.,"Washington, DC","Huntsville, AL",8:40,8:36,-4,9:43,9:28,-15,Not Cancelled,Not Cancelled,Not Diverted,123,112,38:04:00,18:28,5:41,0:14,9:37
+9/1/2019,Endeavor Air Inc.,"Atlanta, GA","Mobile, AL",22:08,21:55,-13,22:24,22:17,-7,Not Cancelled,Not Cancelled,Not Diverted,76,82,23:53,3:43,0:37,4:25,23:31
+3/8/2021,Southwest Airlines Co.,"Rochester, NY","Tampa, FL",18:40,18:46,6,21:40,21:23,-17,Not Cancelled,Not Cancelled,Not Diverted,180,157,16:47,14:35,11:16,4:37,21:58
+11/12/2022,Delta Air Lines Inc.,"Orlando, FL","Detroit, MI",16:30,16:32,2,19:10,19:07,-3,Not Cancelled,Not Cancelled,Not Diverted,160,155,14:52,19:47,7:36,1:11,3:50
+7/29/2019,United Air Lines Inc.,"Denver, CO","Albuquerque, NM",19:00,18:56,-4,20:20,20:35,15,Not Cancelled,Not Cancelled,Not Diverted,80,99,11:59,12:54,0:15,1:26,28:27:00
+3/19/2019,Republic Airline,"Kansas City, MO","Chicago, IL",9:05,9:00,-5,10:44,10:34,-10,Not Cancelled,Not Cancelled,Not Diverted,99,94,27:51:00,1:19,4:01,2:49,11:43
+6/5/2019,American Airlines Inc.,"Raleigh/Durham, NC","Charlotte, NC",16:16,16:32,16,17:25,17:28,3,Not Cancelled,Not Cancelled,Not Diverted,69,56,24:11:00,7:49,13:13,1:42,26:13:00
+4/1/2019,Southwest Airlines Co.,"San Jose, CA","Seattle, WA",21:30,21:34,4,23:40,23:25,-15,Not Cancelled,Not Cancelled,Not Diverted,130,111,11:36,10:21,1:56,3:33,7:25
+6/23/2020,Envoy Air,"Minneapolis, MN","Chicago, IL",6:05,6:04,-1,7:31,7:19,-12,Not Cancelled,Not Cancelled,Not Diverted,86,75,1:06,16:10,10:33,4:26,23:31
+2/22/2019,American Airlines Inc.,"Chicago, IL","Newark, NJ",8:55,8:53,-2,12:01,11:45,-16,Not Cancelled,Not Cancelled,Not Diverted,126,112,37:06:00,18:14,13:27,3:28,3:32
+9/26/2020,United Air Lines Inc.,"San Francisco, CA","Seattle, WA",10:50,10:45,-5,13:14,12:52,-22,Not Cancelled,Not Cancelled,Not Diverted,144,127,31:00:00,20:40,0:02,3:47,2:13
+7/13/2022,SkyWest Airlines Inc.,"Los Angeles, CA","Monterey, CA",8:33,8:31,-2,9:55,9:47,-8,Not Cancelled,Not Cancelled,Not Diverted,82,76,36:01:00,22:54,14:43,1:04,9:00
+10/13/2020,United Air Lines Inc.,"Chicago, IL","San Juan, PR",20:20,20:12,-8,2:12,1:37,-35,Not Cancelled,Not Cancelled,Not Diverted,292,265,3:45,13:52,3:58,0:08,7:07
+5/3/2020,Southwest Airlines Co.,"Dallas, TX","Los Angeles, CA",9:00,8:58,-2,10:25,10:05,-20,Not Cancelled,Not Cancelled,Not Diverted,205,187,7:13,9:12,12:47,4:48,20:22
+1/4/2021,American Airlines Inc.,"Portland, OR","Phoenix, AZ",15:41,15:43,2,19:09,19:20,11,Not Cancelled,Not Cancelled,Not Diverted,148,157,9:07,8:47,13:18,0:18,20:45
+2/17/2019,Southwest Airlines Co.,"Albuquerque, NM",Unknown,15:30,15:23,-7,18:30,18:11,-19,Not Cancelled,Not Cancelled,Not Diverted,120,108,24:53:00,13:44,0:57,0:13,4:45
+1/16/2019,Southwest Airlines Co.,"Harlingen/San Benito, TX","Houston, TX",10:15,11:12,57,11:25,12:14,49,Not Cancelled,Not Cancelled,Not Diverted,70,62,39:21:00,18:37,11:38,2:53,0:49
+10/27/2022,Delta Air Lines Inc.,"Minneapolis, MN","Seattle, WA",18:32,18:30,-2,20:21,20:06,-15,Not Cancelled,Not Cancelled,Not Diverted,229,216,3:01,4:44,11:32,4:40,4:50
+10/18/2020,United Air Lines Inc.,"Los Angeles, CA","Orlando, FL",10:25,10:23,-2,18:24,18:02,-22,Not Cancelled,Not Cancelled,Not Diverted,299,279,28:29:00,12:49,11:38,0:09,27:43:00
+12/29/2019,United Air Lines Inc.,"Austin, TX","Houston, TX",16:12,16:18,6,17:21,17:18,-3,Not Cancelled,Not Cancelled,Not Diverted,69,60,28:41:00,16:28,12:35,3:35,2:43
+8/4/2021,PSA Airlines Inc.,"Tulsa, OK","Charlotte, NC",11:53,11:48,-5,15:28,15:21,-7,Not Cancelled,Not Cancelled,Not Diverted,155,153,42:54:00,18:17,10:46,1:00,1:37
+3/1/2023,American Airlines Inc.,"Detroit, MI","Dallas/Fort Worth, TX",5:20,5:15,-5,7:25,7:20,-5,Not Cancelled,Not Cancelled,Not Diverted,185,185,19:01,8:51,1:41,4:13,15:04
+12/25/2022,american Airlines Inc.,"Richmond, VA","Charlotte, NC",8:45,8:40,-5,10:06,10:13,7,Not Cancelled,Not Cancelled,Not Diverted,81,93,18:29,2:07,6:40,4:25,8:03
+1/21/2023,Republic Airline,"New York, NY","Louisville, KY",13:00,12:52,-8,15:35,15:10,-25,Not Cancelled,Not Cancelled,Not Diverted,155,138,32:23:00,2:26,5:50,1:51,6:12
+10/18/2019,Envoy Air,"Savannah, GA","Miami, FL",17:03,17:07,4,18:35,18:37,2,Not Cancelled,Not Cancelled,Not Diverted,92,90,34:27:00,22:04,0:12,4:17,1:06
+2/11/2019,Delta Air Lines Inc.,"Atlanta, GA","West Palm Beach/Palm Beach, FL",22:45,22:43,-2,0:30,0:14,-16,Not Cancelled,Not Cancelled,Not Diverted,105,91,14:14,17:57,8:45,1:34,11:15
+3/31/2019,American Airlines Inc.,"Fort Lauderdale, FL","Charlotte, NC",19:07,19:03,-4,21:16,21:08,-8,Not Cancelled,Not Cancelled,Not Diverted,129,125,43:30:00,18:46,6:07,2:19,14:18
+5/2/2023,Spirit Air Lines,"Tampa, FL","Pittsburgh, PA",5:45,5:38,-7,8:05,7:55,-10,Not Cancelled,Not Cancelled,Not Diverted,140,137,42:54:00,18:49,10:22,3:23,7:56
+1/28/2022,American Airlines Inc.,"Dallas/Fort Worth, TX","San Diego, CA",20:40,20:36,-4,21:52,21:40,-12,Not Cancelled,Not Cancelled,Not Diverted,192,184,30:25:00,22:55,7:12,1:07,25:47:00
+9/5/2022,JetBlue Airways,"West Palm Beach/Palm Beach, FL","Washington, DC",13:20,13:12,-8,15:44,15:37,-7,Not Cancelled,Not Cancelled,Not Diverted,144,145,21:06,3:07,0:09,0:00,14:14
+1/23/2022,Delta Air Lines Inc.,"Los Angeles, CA","New Orleans, LA",12:26,12:23,-3,17:57,17:41,-16,Not Cancelled,Not Cancelled,Not Diverted,211,198,15:00,15:18,0:45,1:01,11:15
+12/21/2020,SkyWest Airlines Inc.,"Boise, ID","Seattle, WA",6:00,5:55,-5,6:49,6:32,-17,Not Cancelled,Not Cancelled,Not Diverted,109,97,40:38:00,8:43,3:22,2:03,26:40:00
+10/31/2021,Southwest Airlines Co.,"Las Vegas, NV","Boise, ID",20:40,20:51,11,23:25,23:26,1,Not Cancelled,Not Cancelled,Not Diverted,105,95,2:03,10:11,14:23,1:24,12:18
+8/28/2019,Southwest Airlines Co.,"Los Angeles, CA","Reno, NV",10:30,10:48,18,11:55,11:57,2,Not Cancelled,Not Cancelled,Not Diverted,85,69,18:11,18:16,10:11,4:36,6:47
+12/22/2021,American Airlines Inc.,"Washington, DC","Fort Myers, FL",8:36,8:36,0,11:22,11:08,-14,Not Cancelled,Not Cancelled,Not Diverted,166,152,31:52:00,8:29,6:26,1:46,26:05:00
+10/22/2022,Mesa Airlines Inc.,"Houston, TX","Kansas City, MO",7:55,7:54,-1,10:00,9:51,-9,Not Cancelled,Not Cancelled,Not Diverted,125,117,22:08,12:51,10:40,4:12,7:33
+9/30/2020,Alaska Airlines Inc.,"Seattle, WA","Las Vegas, NV",16:05,16:09,4,18:27,18:26,-1,Not Cancelled,Not Cancelled,Not Diverted,142,137,17:37,17:23,7:34,3:49,2:34
+5/17/2023,Southwest Airlines Co.,"Baltimore, MD","Buffalo, NY",16:25,16:24,-1,17:35,17:32,-3,Not Cancelled,Not Cancelled,Not Diverted,70,68,27:21:00,23:05,9:33,4:24,3:01
+8/7/2023,United Air Lines Inc.,"Dallas/Fort Worth, TX","Chicago, IL",16:22,16:22,0,18:54,18:42,-12,Not Cancelled,Not Cancelled,Not Diverted,152,140,39:13:00,20:38,10:31,1:53,15:57
+8/22/2023,DELTA AIR LINES Inc.,"Atlanta, GA","Gainesville, FL",17:57,17:49,-8,19:07,18:59,-8,Not Cancelled,Not Cancelled,Not Diverted,70,70,39:21:00,4:42,0:01,2:07,15:09
+6/28/2022,Southwest Airlines Co.,"Atlanta, GA","West Palm Beach/Palm Beach, FL",16:20,16:15,-5,18:05,17:48,-17,Not Cancelled,Not Cancelled,Not Diverted,105,93,17:57,22:38,5:31,3:32,22:03
+1/21/2019,Southwest Airlines Co.,"Phoenix, AZ","Los Angeles, CA",21:00,21:32,32,21:35,21:57,22,Not Cancelled,Not Cancelled,Not Diverted,95,85,0:22,12:08,5:54,4:30,11:37
+9/9/2022,PSA Airlines Inc.,"Allentown/Bethlehem/Easton, PA","Charlotte, NC",6:20,6:07,-13,8:21,7:34,-47,Not Cancelled,Not Cancelled,Not Diverted,121,87,3:12,4:38,10:22,0:09,16:44
+6/1/2021,American Airlines Inc.,"West Palm Beach/Palm Beach, FL","Philadelphia, PA",11:00,10:58,-2,13:37,13:46,9,Not Cancelled,Not Cancelled,Not Diverted,157,168,15:11,14:37,5:46,2:07,14:09
+4/14/2021,United Air Lines Inc.,"Boston, MA","Denver, CO",15:45,,111,18:29,19:54,85,Not Cancelled,Not Cancelled,Not Diverted,284,258,4:27,6:19,4:10,3:13,1:25
+8/20/2021,American Airlines Inc.,"Dallas/Fort Worth, TX","Pittsburgh, PA",11:23,11:28,5,15:03,15:04,1,Not Cancelled,Not Cancelled,Not Diverted,160,156,7:06,3:37,12:54,0:59,17:14
+12/24/2020,Frontier Airlines Inc.,"Fort Myers, FL","Cleveland, OH",13:50,13:45,-5,16:37,16:15,-22,Not Cancelled,Not Cancelled,Not Diverted,167,150,10:59,4:20,6:26,2:00,18:10
+7/8/2023,Southwest Airlines Co.,"Reno, NV","Las Vegas, NV",21:20,21:11,-9,22:35,22:17,-18,Not Cancelled,Not Cancelled,Not Diverted,75,66,28:51:00,17:03,8:55,0:54,9:55
+9/9/2020,Mesa Airlines Inc.,"Gulfport/Biloxi, MS","Dallas/Fort Worth, TX",6:00,6:00,0,7:51,7:41,-10,Not Cancelled,Not Cancelled,Not Diverted,111,101,35:14:00,10:13,13:46,1:07,3:41
+4/25/2022,Allegiant Air,"Sanford, FL","Allentown/Bethlehem/Easton, PA",9:37,9:32,-5,11:56,11:54,-2,Not Cancelled,Not Cancelled,Not Diverted,139,142,12:18,6:45,5:24,0:35,2:37
+11/11/2022,Envoy Air,"Chicago, IL","Atlanta, GA",9:35,10:32,57,12:51,13:25,34,Not Cancelled,Not Cancelled,Not Diverted,136,113,0:34,22:22,11:02,4:32,20:16
+9/15/2021,SkyWest Airlines Inc.,"Rapid City, SD","Chicago, IL",9:50,9:43,-7,13:11,12:52,-19,Not Cancelled,Not Cancelled,Not Diverted,141,129,19:22,17:38,0:30,4:19,2:29
+12/12/2022,Delta Air Lines Inc.,"Dallas/Fort Worth, TX","Atlanta, GA",19:47,19:29,-18,22:47,22:24,-23,Not Cancelled,Not Cancelled,Not Diverted,120,115,23:39,1:14,0:38,3:57,15:23
+7/11/2022,Delta Air Lines Inc.,"Raleigh/Durham, NC","Atlanta, GA",15:34,15:33,-1,17:05,16:48,-17,Not Cancelled,Not Cancelled,Not Diverted,91,75,8:09,1:52,14:13,0:58,20:53
+3/7/2023,Republic Airline,"Washington, DC","Lexington, KY",21:05,20:55,-10,22:50,22:32,-18,Not Cancelled,Not Cancelled,Not Diverted,105,97,17:58,1:12,14:07,2:03,5:02
+4/14/2022,Southwest Airlines Co.,"Phoenix, AZ","Burbank, CA",18:50,18:50,0,20:10,20:11,1,Not Cancelled,Not Cancelled,Not Diverted,80,81,27:15:00,18:17,2:53,1:11,8:13
+4/26/2019,Southwest Airlines Co.,"Houston, TX","Kansas City, MO",8:25,8:24,-1,10:25,10:18,-7,Not Cancelled,Not Cancelled,Not Diverted,120,114,10:05,1:56,0:22,4:36,4:09
+6/25/2022,Delta Air Lines Inc.,"Spokane, WA","Salt Lake City, UT",17:22,17:14,-8,20:02,19:48,-14,Not Cancelled,Not Cancelled,Not Diverted,100,94,6:09,6:04,0:31,1:14,9:34
+1/7/2019,Southwest Airlines Co.,"Baltimore, MD","Cincinnati, OH",12:20,12:13,-7,14:00,13:42,-18,Not Cancelled,Not Cancelled,Not Diverted,100,89,38:57:00,8:15,11:31,1:00,16:49
+3/21/2023,Southwest Airlines Co.,"Los Angeles, CA","Nashville, TN",11:55,12:45,50,17:45,18:37,52,Not Cancelled,Not Cancelled,Not Diverted,230,232,0:30,13:16,0:02,2:34,0:20
+2/22/2021,SkyWest Airlines Inc.,"Jamestown, ND","Devils Lake, ND",14:32,14:18,-14,15:14,14:52,-22,Not Cancelled,Not Cancelled,Not Diverted,42,34,1:52,20:02,13:58,2:26,15:16
+8/4/2019,SkyWest Airlines Inc.,"Detroit, MI","St. Louis, MO",17:45,18:03,18,18:23,18:46,23,Not Cancelled,Not Cancelled,Not Diverted,98,103,35:25:00,0:18,0:05,0:12,27:32:00
+11/6/2019,JetBlue Airways,"Fort Lauderdale, FL","Richmond, VA",21:32,21:22,-10,23:40,23:38,-2,Not Cancelled,Not Cancelled,Not Diverted,128,136,44:19:00,13:57,4:40,3:50,6:17
+1/17/2021,Southwest Airlines Co.,"Dallas, TX","Denver, CO",19:00,19:12,12,20:00,20:10,10,Not Cancelled,Not Cancelled,Not Diverted,120,118,42:05:00,15:03,7:16,4:18,8:00
+4/19/2021,American Airlines Inc.,"Dallas/Fort Worth, TX","Seattle, WA",15:05,15:02,-3,17:31,17:16,-15,Not Cancelled,Not Cancelled,Not Diverted,266,254,27:37:00,5:44,11:40,4:49,25:14:00
+8/18/2021,Envoy Air,"Chicago, IL","Springfield, MO",19:05,19:06,1,20:43,20:37,-6,Not Cancelled,Not Cancelled,Not Diverted,98,91,3:40,22:36,6:50,0:07,1:56
+3/23/2023,Southwest Airlines Co.,"Austin, TX","St. Louis, MO",10:35,10:30,-5,12:35,12:17,-18,Not Cancelled,Not Cancelled,Not Diverted,120,107,22:07,22:42,5:39,0:38,8:30
+1/7/2021,SkyWest Airlines Inc.,"Portland, OR","Seattle, WA",22:55,22:50,-5,23:49,23:35,-14,Not Cancelled,Not Cancelled,Not Diverted,54,45,41:31:00,20:56,9:41,2:16,11:46
+12/18/2022,Delta Air Lines Inc.,"Detroit, MI","Las Vegas, NV",18:25,18:19,-6,20:00,19:43,-17,Not Cancelled,Not Cancelled,Not Diverted,275,264,7:12,10:25,2:56,2:27,9:15
+10/28/2019,Southwest Airlines Co.,"Dallas, TX","San Antonio, TX",14:15,14:26,11,15:25,15:26,1,Not Cancelled,Not Cancelled,Not Diverted,70,60,1:55,21:52,5:04,1:48,9:19
+1/8/2019,Southwest Airlines Co.,"Milwaukee, WI","Fort Myers, FL",12:05,12:06,1,16:05,15:43,-22,Not Cancelled,Not Cancelled,Not Diverted,180,157,42:22:00,12:04,1:42,2:45,25:25:00
+8/29/2020,SkyWest Airlines Inc.,"Burbank, CA","Seattle, WA",19:00,18:50,-10,21:45,21:33,-12,Not Cancelled,Not Cancelled,Not Diverted,165,163,27:55:00,15:56,1:26,0:54,3:03
+8/24/2022,United Air Lines Inc.,"Denver, CO","San Jose, CA",19:14,19:12,-2,20:51,20:35,-16,Not Cancelled,Not Cancelled,Not Diverted,157,143,32:36:00,16:04,0:12,3:11,19:34
+6/25/2019,SkyWest Airlines Inc.,"Los Angeles, CA","Portland, OR",9:00,9:31,31,11:20,11:52,32,Not Cancelled,Not Cancelled,Not Diverted,140,141,0:31,20:49,0:01,4:28,9:46
+9/22/2019,American Airlines Inc.,"Fort Lauderdale, FL","Dallas/Fort Worth, TX",11:36,11:29,-7,13:44,13:24,-20,Not Cancelled,Not Cancelled,Not Diverted,188,175,44:56:00,3:51,3:01,4:48,5:07
+7/23/2022,Delta Air Lines Inc.,"Raleigh/Durham, NC","Orlando, FL",7:05,6:59,-6,8:44,8:33,-11,Not Cancelled,Not Cancelled,Not Diverted,99,94,29:18:00,11:47,1:12,3:32,10:48
+11/12/2019,Southwest Airlines Co.,"Chicago, IL","Los Angeles, CA",17:25,17:39,14,20:00,19:49,-11,Not Cancelled,Not Cancelled,Not Diverted,275,250,25:01:00,13:45,8:30,0:27,23:50
+10/31/2022,Spirit Air Lines,"Chicago, IL","Houston, TX",5:30,6:45,75,8:22,9:25,63,Not Cancelled,Not Cancelled,Not Diverted,172,160,1:03,20:06,8:21,2:00,25:58:00
+4/29/2023,American Airlines Inc.,"New York, NY","Nashville, TN",19:25,19:16,-9,20:55,20:42,-13,Not Cancelled,Not Cancelled,Not Diverted,150,146,27:55:00,6:50,0:07,1:11,8:49
+8/15/2022,American Airlines Inc.,"Washington, DC","Charlotte, NC",15:30,15:27,-3,16:59,16:55,-4,Not Cancelled,Not Cancelled,Not Diverted,89,88,5:02,20:01,2:28,2:47,7:21
+3/23/2019,Southwest Airlines Co.,"Chicago, IL","Los Angeles, CA",16:00,16:25,25,18:35,18:36,1,Not Cancelled,Not Cancelled,Not Diverted,275,251,37:06:00,7:53,14:07,3:59,11:01
+12/28/2022,Delta Air Lines Inc.,"Raleigh/Durham, NC","Atlanta, GA",6:00,6:00,0,7:36,7:37,1,Not Cancelled,Not Cancelled,Not Diverted,96,97,3:40,9:09,2:26,2:37,25:08:00
+3/2/2022,Mesa Airlines Inc.,"Santa Rosa, CA","Phoenix, AZ",12:37,12:28,-9,15:35,15:33,-2,Not Cancelled,Not Cancelled,Not Diverted,118,125,38:31:00,3:08,7:02,0:08,10:00
+4/13/2020,Southwest Airlines Co.,"Kona, HI","Kahului, HI",15:45,13:24,-2,16:30,15:06,-7,Cancelled,Security,Not Diverted,45,120,30:17:00,13:27,2:02,3:40,12:28
+4/24/2023,Spirit Air Lines,"Las Vegas, NV","Houston, TX",17:45,18:00,15,22:45,22:58,13,Not Cancelled,Not Cancelled,Not Diverted,180,178,33:18:00,9:54,1:36,4:50,6:01
+12/4/2019,Alaska Airlines Inc.,"Seattle, WA","Sacramento, CA",21:40,21:43,3,23:32,23:36,4,Not Cancelled,Not Cancelled,Not Diverted,112,113,18:17,11:05,1:51,1:18,9:22
+9/5/2022,Southwest Airlines Co.,"Dallas, TX","El Paso, TX",22:40,23:07,27,23:20,23:36,16,Not Cancelled,Not Cancelled,Not Diverted,100,89,0:02,0:40,0:48,1:48,0:14
+3/14/2019,United Air Lines Inc.,"Dallas/Fort Worth, TX","Chicago, IL",17:40,17:36,-4,20:08,20:18,10,Not Cancelled,Not Cancelled,Not Diverted,148,162,44:07:00,4:05,4:27,4:19,24:59:00
+9/11/2020,American Airlines Inc.,"Washington, DC","New York, NY",10:00,9:46,-14,11:15,10:39,-36,Not Cancelled,Not Cancelled,Not Diverted,75,53,19:12,1:59,1:46,4:41,26:23:00
+4/24/2021,SkyWest Airlines Inc.,"Salt Lake City, UT","Oakland, CA",15:45,15:42,-3,16:40,16:46,6,Not Cancelled,Not Cancelled,Not Diverted,115,124,31:03:00,2:40,0:28,1:01,25:04:00
+6/26/2020,Alaska Airlines Inc.,"Juneau, AK","Gustavus, AK",17:35,17:19,-16,18:06,17:47,-19,Not Cancelled,Not Cancelled,Not Diverted,31,28,24:56:00,6:11,0:32,0:58,19:18
+11/15/2021,JetBlue Airways,"Austin, TX","Los Angeles, CA",13:00,13:05,5,14:19,14:04,-15,Not Cancelled,Not Cancelled,Not Diverted,199,179,4:36,15:35,3:35,3:49,15:23
+7/27/2020,Southwest Airlines Co.,"Los Angeles, CA","Las Vegas, NV",17:20,17:14,-6,18:30,18:10,-20,Not Cancelled,Not Cancelled,Not Diverted,70,56,27:09:00,20:22,14:13,0:52,15:24
+11/8/2021,SkyWest Airlines Inc.,"San Francisco, CA","Los Angeles, CA",8:36,8:28,-8,10:09,9:56,-13,Not Cancelled,Not Cancelled,Not Diverted,93,88,15:46,14:50,11:43,0:22,24:31:00
+11/26/2022,Delta Air Lines Inc.,"San Francisco, CA","Los Angeles, CA",11:00,10:53,-7,12:30,12:07,-23,Not Cancelled,Not Cancelled,Not Diverted,90,74,32:34:00,0:32,5:19,0:18,4:35
+7/14/2020,Mesa Airlines Inc.,"Houston, TX","St. Louis, MO",10:00,12:01,121,12:04,14:01,117,Not Cancelled,Not Cancelled,Not Diverted,124,120,1:57,3:49,11:01,2:49,18:56
+11/20/2021,Southwest Airlines Co.,"Atlanta, GA","Orlando, FL",6:10,6:06,-4,7:40,7:34,-6,Not Cancelled,Not Cancelled,Not Diverted,90,88,37:59:00,14:17,0:45,2:00,23:27
+7/14/2022,Envoy Air,"Miami, FL","Asheville, NC",9:19,9:10,-9,11:25,11:06,-19,Not Cancelled,Not Cancelled,Not Diverted,126,116,0:43,0:20,9:15,4:44,5:48
+3/27/2023,SkyWest Airlines Inc.,"Grand Rapids, MI","Minneapolis, MN",14:00,13:53,-7,14:43,14:19,-24,Not Cancelled,Not Cancelled,Not Diverted,103,86,0:03,9:04,10:24,0:40,21:50
+1/1/2022,American Airlines Inc.,"Philadelphia, PA","West Palm Beach/Palm Beach, FL",13:45,13:43,-2,16:33,16:19,-14,Not Cancelled,Not Cancelled,Not Diverted,168,156,25:15:00,19:48,1:40,1:57,15:40
+5/7/2022,Endeavor Air Inc.,"Atlanta, GA","Fayetteville, NC",15:15,15:14,-1,16:33,16:28,-5,Not Cancelled,Not Cancelled,Not Diverted,78,74,2:21,2:30,5:35,3:35,26:27:00
+4/17/2022,SkyWest Airlines Inc.,"Jamestown, ND","Denver, CO",6:40,6:30,-10,7:39,7:23,-16,Not Cancelled,Not Cancelled,Not Diverted,119,113,11:31,8:57,0:22,1:26,5:22
+3/9/2020,Allegiant Air,"Las Vegas, NV","Reno, NV",13:12,13:16,4,14:33,14:35,2,Not Cancelled,Not Cancelled,Not Diverted,81,79,15:52,9:46,13:34,3:19,11:24
+3/14/2021,Southwest Airlines Co.,"Las Vegas, NV","Ontario, CA",21:35,21:56,21,22:30,22:47,17,Not Cancelled,Not Cancelled,Not Diverted,55,51,0:06,10:05,7:54,3:20,0:11
+4/5/2023,PSA Airlines Inc.,"Dayton, OH","Charlotte, NC",17:25,17:21,-4,19:00,19:01,1,Not Cancelled,Not Cancelled,Not Diverted,95,100,42:07:00,15:08,11:20,3:39,21:08
+10/19/2022,Southwest Airlines Co.,"Burbank, CA","Denver, CO",16:10,16:17,7,19:25,19:21,-4,Not Cancelled,Not Cancelled,Not Diverted,135,124,33:42:00,13:41,12:06,1:21,26:54:00
+12/6/2021,Alaska Airlines Inc.,"Sitka, AK","Juneau, AK",6:00,6:01,1,6:38,6:38,0,Not Cancelled,Not Cancelled,Not Diverted,38,37,22:49,12:51,9:52,0:20,15:03
+1/20/2022,Republic Airline,"Kansas City, MO","New York, NY",13:23,13:33,10,16:59,17:11,12,Not Cancelled,Not Cancelled,Not Diverted,156,158,41:18:00,20:07,10:18,1:53,25:32:00
+3/12/2020,Southwest Airlines Co.,"Kansas City, MO","Denver, CO",22:30,22:22,-8,23:15,23:13,-2,Not Cancelled,Not Cancelled,Not Diverted,105,111,25:28:00,8:36,3:01,3:03,16:32
+5/14/2023,SkyWest Airlines Inc.,"Chicago, IL","Wichita, KS",13:00,12:52,-8,15:05,16:32,-7,Not Cancelled,Not Cancelled,Diverted,125,120,25:05:00,20:07,5:57,1:17,18:41
+8/16/2023,American Airlines Inc.,"Philadelphia, PA","Houston, TX",9:05,9:01,-4,11:47,11:23,-24,Not Cancelled,Not Cancelled,Not Diverted,222,202,21:41,5:21,8:27,4:35,20:37
+3/4/2020,Delta Air Lines Inc.,"Atlanta, GA","Rochester, NY",9:20,9:46,26,11:24,11:35,11,Not Cancelled,Not Cancelled,Not Diverted,124,109,3:04,9:42,1:57,4:44,25:21:00
+7/7/2022,United Air Lines Inc.,"Houston, TX","Los Angeles, CA",21:53,21:53,0,23:23,23:23,0,Not Cancelled,Not Cancelled,Not Diverted,210,210,24:27:00,13:43,0:07,0:01,7:41
+3/27/2022,Southwest Airlines Co.,"Dallas, TX","Colorado Springs, CO",8:20,8:18,-2,9:25,9:13,-12,Not Cancelled,Not Cancelled,Not Diverted,125,115,38:56:00,1:14,14:03,3:15,25:14:00
+1/28/2021,Republic Airline,"Fort Myers, FL",,12:01,11:51,-10,14:25,14:05,-20,Not Cancelled,Not Cancelled,Not Diverted,144,134,31:51:00,22:21,4:10,0:20,26:06:00
+8/11/2021,JetBlue Airways,"San Francisco, CA","Fort Lauderdale, FL",21:49,21:48,-1,6:31,6:17,-14,Not Cancelled,Not Cancelled,Not Diverted,342,329,32:45:00,7:18,14:33,3:13,3:14
+4/10/2023,American Airlines Inc.,"San Diego, CA","Phoenix, AZ",12:45,12:48,3,14:05,14:11,6,Not Cancelled,Not Cancelled,Not Diverted,80,83,40:18:00,14:17,7:11,4:24,19:00
+11/17/2021,Delta Air Lines Inc.,"Detroit, MI","Las Vegas, NV",18:29,18:23,-6,20:00,19:46,-14,Not Cancelled,Not Cancelled,Not Diverted,271,263,6:19,13:13,2:39,4:29,4:06
+5/25/2019,Southwest Airlines Co.,"Phoenix, AZ","Denver, CO",14:45,14:55,10,17:25,17:21,-4,Not Cancelled,Not Cancelled,Not Diverted,100,86,40:15:00,21:38,7:22,0:11,7:47
+10/14/2020,Southwest Airlines Co.,"Washington, DC","Chicago, IL",14:00,13:58,-2,15:00,14:45,-15,Not Cancelled,Not Cancelled,Not Diverted,120,107,42:56:00,3:39,11:39,0:17,23:28
+8/26/2019,SkyWest Airlines Inc.,"Dayton, OH","Minneapolis, MN",7:00,7:00,0,8:10,8:14,4,Not Cancelled,Not Cancelled,Not Diverted,130,134,14:42,20:14,13:44,1:21,23:07
+11/28/2022,American Airlines Inc.,"Harrisburg, PA","Dallas/Fort Worth, TX",6:15,6:18,3,8:53,8:58,5,Not Cancelled,Not Cancelled,Not Diverted,218,220,46:56:00,13:49,13:51,4:56,17:04
+9/6/2020,SkyWest Airlines Inc.,"Dayton, OH","Detroit, MI",11:45,11:41,-4,12:47,12:32,-15,Not Cancelled,Not Cancelled,Not Diverted,62,51,3:16,0:34,10:36,3:10,24:56:00
+5/6/2019,Endeavor Air Inc.,"Moline, IL","Atlanta, GA",11:35,11:17,-18,14:31,14:00,-31,Not Cancelled,Not Cancelled,Not Diverted,116,103,44:02:00,22:13,6:38,0:39,10:17
+9/14/2021,Southwest Airlines Co.,"Oakland, CA","Palm Springs, CA",18:45,18:37,-8,20:15,20:03,-12,Not Cancelled,Not Cancelled,Not Diverted,90,86,22:59,11:37,2:25,4:01,7:01
+6/29/2020,Delta Air Lines Inc.,"Denver, CO","Detroit, MI",14:50,14:44,-6,19:30,19:25,-5,Not Cancelled,Not Cancelled,Not Diverted,160,161,48:14:00,6:41,13:20,0:45,27:35:00
+6/29/2022,Delta Air Lines Inc.,"Denver, CO","New York, NY",6:10,6:10,0,12:05,11:55,-10,Not Cancelled,Not Cancelled,Not Diverted,235,225,17:15,0:24,11:47,3:43,11:18
+8/20/2022,Envoy Air,"Dallas/Fort Worth, TX","Monterey, CA",19:00,18:55,-5,20:46,20:41,-5,Not Cancelled,Not Cancelled,Not Diverted,226,226,16:07,8:46,12:52,3:22,5:00
+7/9/2021,United Air Lines Inc.,"Minneapolis, MN","Chicago, IL",8:15,8:12,-3,9:43,9:35,-8,Not Cancelled,Not Cancelled,Not Diverted,88,83,30:09:00,2:16,9:26,4:26,0:33
+3/3/2020,SkyWest Airlines Inc.,"Denver, CO","Aspen, CO",15:41,15:34,-7,16:43,16:30,-13,Not Cancelled,Not Cancelled,Not Diverted,62,56,20:13,21:32,13:28,2:26,11:44
+4/11/2021,PSA Airlines Inc.,"Washington, DC","Charlotte, NC",6:13,6:06,-7,7:55,7:32,-23,Not Cancelled,Not Cancelled,Not Diverted,102,86,37:35:00,19:21,7:20,1:16,0:38
+7/3/2021,Envoy Air,"Chicago, IL","Allentown/Bethlehem/Easton, PA",13:20,13:15,-5,16:23,16:10,-13,Not Cancelled,Not Cancelled,Not Diverted,123,115,38:19:00,15:18,9:11,0:25,27:25:00
+8/24/2021,Republic Airline,"New York, NY","Washington, DC",19:40,19:35,-5,21:06,20:28,-38,Not Cancelled,Not Cancelled,Not Diverted,86,53,16:19,11:49,8:55,2:51,4:01
+7/14/2022,Alaska Airlines Inc.,"Portland, OR","Los Angeles, CA",6:00,6:06,6,8:28,8:35,7,Not Cancelled,Not Cancelled,Not Diverted,148,149,5:37,19:49,4:18,3:54,8:19
+4/2/2022,Spirit Air Lines,"Fort Myers, FL","Chicago, IL",8:00,7:55,-5,10:02,9:57,-5,Not Cancelled,Not Cancelled,Not Diverted,182,182,2:28,2:17,10:48,0:51,9:29
+9/25/2021,SkyWest Airlines Inc.,"North Platte, NE","Denver, CO",7:03,6:53,-10,7:10,7:09,-1,Not Cancelled,Not Cancelled,Not Diverted,67,76,35:03:00,19:05,2:32,1:41,21:27
+9/15/2019,Delta Air Lines Inc.,"Atlanta, GA","Cincinnati, OH",8:55,8:52,-3,10:14,10:09,-5,Not Cancelled,Not Cancelled,Not Diverted,79,77,28:07:00,8:49,11:36,4:23,23:10
+2/10/2019,Delta Air Lines Inc.,"Raleigh/Durham, NC","Atlanta, GA",9:50,9:47,-3,11:20,11:28,8,Not Cancelled,Not Cancelled,Not Diverted,90,101,36:47:00,8:28,5:13,4:57,21:08
+8/16/2019,Endeavor Air Inc.,"Milwaukee, WI","New York, NY",13:37,13:37,0,16:50,16:43,-7,Not Cancelled,Not Cancelled,Not Diverted,133,126,40:40:00,4:54,4:20,3:13,17:44
+7/8/2022,American Airlines Inc.,"Dallas/Fort Worth, TX","Baltimore, MD",14:29,16:27,118,18:30,20:16,106,Not Cancelled,Not Cancelled,Not Diverted,181,169,0:47,21:14,13:01,4:11,0:59
+2/12/2019,Delta Air Lines Inc.,"Washington, DC","Atlanta, GA",9:50,9:43,-7,11:42,11:28,-14,Not Cancelled,Not Cancelled,Not Diverted,112,105,38:02:00,14:01,4:41,0:31,1:18
+7/23/2022,Delta Air Lines Inc.,"Minneapolis, MN","Fort Myers, FL",12:39,12:41,2,16:54,17:06,12,Not Cancelled,Not Cancelled,Not Diverted,195,205,35:39:00,2:55,9:06,2:29,10:31
+2/22/2019,SkyWest Airlines Inc.,"Milwaukee, WI","Houston, TX",8:00,8:24,24,11:11,12:35,-7,Not Cancelled,Not Cancelled,Diverted,191,120,35:42:00,3:33,12:04,3:42,14:05
+8/24/2022,JetBlue Airways,"Boston, MA","Raleigh/Durham, NC",19:30,21:01,91,21:35,23:01,86,Not Cancelled,Not Cancelled,Not Diverted,125,120,0:26,0:30,9:46,1:43,1:00
+7/29/2020,Endeavor Air Inc.,"Minneapolis, MN","Rapid City, SD",8:16,8:12,-4,9:01,8:33,-28,Not Cancelled,Not Cancelled,Not Diverted,105,81,1:42,6:45,10:20,3:33,0:41
+4/8/2021,Southwest Airlines Co.,"Dallas, TX","Sacramento, CA",20:30,20:57,27,22:20,22:32,12,Not Cancelled,Not Cancelled,Not Diverted,230,215,10:14,20:57,9:54,2:09,20:08
+10/14/2020,Alaska Airlines Inc.,"Phoenix, AZ","Seattle, WA",8:20,8:12,-8,11:25,11:30,5,Not Cancelled,Not Cancelled,Not Diverted,185,198,8:22,5:02,2:01,0:41,25:59:00
+4/10/2021,PSA Airlines Inc.,"Columbia, SC","Charlotte, NC",7:01,6:58,-3,8:16,7:56,-20,Not Cancelled,Not Cancelled,Not Diverted,75,58,35:23:00,11:28,13:05,2:25,22:18
+11/12/2022,SkyWest Airlines Inc.,"Minneapolis, MN","Duluth, MN",21:20,21:35,15,22:19,22:52,33,Not Cancelled,Not Cancelled,Not Diverted,59,77,0:33,16:47,10:39,1:11,13:40
+6/11/2023,American Airlines Inc.,"West Palm Beach/Palm Beach, FL","Charlotte, NC",13:49,13:43,-6,15:48,18:15,-7,Not Cancelled,Not Cancelled,Diverted,119,120,3:03,22:28,10:55,3:39,12:25
+10/3/2019,Spirit Air Lines,"Atlanta, GA","Fort Lauderdale, FL",10:05,10:05,0,12:03,11:58,-5,Not Cancelled,Not Cancelled,Not Diverted,118,113,48:19:00,20:42,13:21,0:36,13:36
+11/23/2020,Delta Air Lines Inc.,"Charleston, SC","Atlanta, GA",6:00,5:58,-2,7:08,6:54,-14,Not Cancelled,Not Cancelled,Not Diverted,68,56,16:14,12:07,11:44,2:58,2:33
+5/27/2019,Republic Airline,"Houston, TX","St. Louis, MO",18:30,18:19,-11,20:32,20:22,-10,Not Cancelled,Not Cancelled,Not Diverted,122,123,39:54:00,4:22,2:12,0:15,16:33
+6/27/2023,Southwest Airlines Co.,"Dallas, TX","Phoenix, AZ",9:50,9:55,5,10:20,10:22,2,Not Cancelled,Not Cancelled,Not Diverted,150,147,13:04,4:00,8:55,1:24,28:01:00
+3/23/2020,Southwest Airlines Co.,"Houston, TX","Nashville, TN",22:25,22:15,-10,0:15,23:53,-22,Not Cancelled,Not Cancelled,Not Diverted,110,98,10:34,10:25,13:26,0:55,0:50
+11/15/2022,American Airlines Inc.,"San Juan, PR","Dallas/Fort Worth, TX",16:06,16:22,16,19:29,19:32,3,Not Cancelled,Not Cancelled,Not Diverted,323,310,47:59:00,12:47,3:54,0:21,19:44
+9/27/2019,Alaska Airlines Inc.,"Lihue, HI","Seattle, WA",21:50,21:50,0,6:45,6:46,1,Not Cancelled,Not Cancelled,Not Diverted,355,356,9:09,18:10,12:05,4:51,13:15
+9/25/2019,United Air Lines Inc.,"Chicago, IL","Las Vegas, NV",13:04,12:56,-8,15:02,14:37,-25,Not Cancelled,Not Cancelled,Not Diverted,238,221,12:46,18:44,3:13,4:28,22:15
+9/1/2022,Southwest Airlines Co.,"Baltimore, MD","Phoenix, AZ",6:20,6:19,-1,8:05,7:57,-8,Not Cancelled,Not Cancelled,Not Diverted,285,278,45:15:00,21:56,1:21,4:36,18:29
+10/13/2021,Delta Air Lines Inc.,"Atlanta, GA","Washington, DC",14:31,14:37,6,16:10,16:10,0,Not Cancelled,Not Cancelled,Not Diverted,99,93,20:28,23:01,8:35,1:19,15:30
+5/3/2023,Southwest Airlines Co.,"Boise, ID","San Jose, CA",16:10,16:04,-6,16:50,16:35,-15,Not Cancelled,Not Cancelled,Not Diverted,100,91,18:53,21:16,14:36,4:27,6:19
+9/12/2019,Envoy Air,"Miami, FL","Gainesville, FL",21:51,21:46,-5,23:08,23:01,-7,Not Cancelled,Not Cancelled,Not Diverted,77,75,33:55:00,5:57,13:09,1:51,3:14
+6/20/2022,SkyWest Airlines Inc.,"Columbus, OH","Detroit, MI",10:21,10:19,-2,11:23,11:23,0,Not Cancelled,Not Cancelled,Not Diverted,62,64,17:41,5:30,14:28,0:11,26:59:00
+8/5/2020,American Airlines Inc.,"Dallas/Fort Worth, TX","Phoenix, AZ",14:30,14:24,-6,14:54,14:45,-9,Not Cancelled,Not Cancelled,Not Diverted,144,141,30:25:00,15:51,6:05,3:31,20:24
+7/31/2019,SkyWest Airlines Inc.,"Denver, CO","Memphis, TN",20:22,22:05,103,23:58,1:46,108,Not Cancelled,Not Cancelled,Not Diverted,156,161,42:07:00,1:43,0:05,3:47,2:51
+3/14/2020,American Airlines Inc.,"Kansas City, MO","Phoenix, AZ",18:22,18:11,-11,19:14,19:07,-7,Not Cancelled,Not Cancelled,Not Diverted,172,176,31:59:00,7:44,2:43,0:46,28:12:00
+10/5/2019,SkyWest Airlines Inc.,"Detroit, MI","Houston, TX",15:10,15:05,-5,17:18,16:53,-25,Not Cancelled,Not Cancelled,Not Diverted,188,168,30:57:00,17:07,11:16,1:13,9:54
+11/8/2022,Alaska Airlines Inc.,"Honolulu, HI","San Francisco, CA",11:40,11:47,7,18:54,18:49,-5,Not Cancelled,Not Cancelled,Not Diverted,314,302,37:02:00,15:41,12:09,2:09,23:23
+12/10/2022,Southwest Airlines Co.,"Jacksonville, FL","Chicago, IL",18:30,18:34,4,20:05,20:05,0,Not Cancelled,Not Cancelled,Not Diverted,155,151,3:11,11:05,12:44,1:01,22:26
+3/17/2021,United Air Lines Inc.,"Newark, NJ","West Palm Beach/Palm Beach, FL",10:40,10:32,-8,13:41,13:20,-21,Not Cancelled,Not Cancelled,Not Diverted,181,168,27:45:00,9:54,6:10,2:44,4:22
+11/7/2019,SkyWest Airlines Inc.,"Fayetteville, AR","Houston, TX",7:00,6:57,-3,8:55,8:48,-7,Not Cancelled,Not Cancelled,Not Diverted,115,111,11:00,2:03,4:39,2:58,1:09
+12/28/2021,SkyWest Airlines Inc.,"Portland, OR","Los Angeles, CA",9:55,13:03,188,12:05,15:11,186,Not Cancelled,Not Cancelled,Not Diverted,130,128,3:06,6:44,1:20,4:42,8:18
+8/5/2022,Southwest Airlines Co.,"Oakland, CA","Seattle, WA",16:05,16:35,30,18:05,18:24,19,Not Cancelled,Not Cancelled,Not Diverted,120,109,0:16,1:51,2:26,0:26,0:03
+5/16/2022,Southwest Airlines Co.,"Las Vegas, NV","Houston, TX",20:00,20:47,,0:50,1:30,40,Not Cancelled,Not Cancelled,Not Diverted,170,163,0:10,19:24,9:04,0:35,0:30
+6/14/2019,Southwest Airlines Co.,"Houston, TX","Denver, CO",12:45,13:51,66,14:15,18:12,-7,Not Cancelled,Not Cancelled,Diverted,150,120,4:53,11:52,11:21,3:09,27:09:00
+11/16/2019,Alaska Airlines Inc.,"San Jose, CA","Lihue, HI",8:15,8:08,-7,12:15,11:55,-20,Not Cancelled,Not Cancelled,Not Diverted,360,347,19:33,19:03,2:31,3:46,12:28
+8/7/2021,SkyWest Airlines Inc.,"Denver, CO","Great Falls, MT",15:41,15:39,-2,17:32,17:42,10,Not Cancelled,Not Cancelled,Not Diverted,111,123,30:38:00,0:18,1:24,2:16,6:29
+11/21/2019,American Airlines Inc.,"Philadelphia, PA","Phoenix, AZ",7:00,6:58,-2,10:27,10:21,-6,Not Cancelled,Not Cancelled,Not Diverted,327,323,35:32:00,2:54,7:39,2:25,22:23
+8/13/2023,American Airlines Inc.,"Dallas/Fort Worth, TX","Austin, TX",13:30,13:23,-7,14:32,14:16,-16,Not Cancelled,Not Cancelled,Not Diverted,62,53,13:51,8:14,0:29,3:13,18:16
+5/19/2021,Horizon Air,"Dallas, TX","Los Angeles, CA",17:05,17:38,33,18:40,18:58,18,Not Cancelled,Not Cancelled,Not Diverted,215,200,5:35,5:33,4:54,2:03,0:18
+10/16/2019,SkyWest Airlines Inc.,"Santa Rosa, CA","San Francisco, CA",5:55,5:50,-5,6:45,6:26,-19,Not Cancelled,Not Cancelled,Not Diverted,50,36,10:25,21:45,11:31,4:10,6:09
+4/18/2021,SkyWest Airlines Inc.,"Phoenix, AZ","Bakersfield, CA",8:10,8:03,-7,9:53,9:39,-14,Not Cancelled,Not Cancelled,Not Diverted,103,96,6:14,4:48,13:53,2:31,18:02
+3/26/2023,American Airlines Inc.,"Atlanta, GA","Dallas/Fort Worth, TX",6:00,5:54,-6,7:32,7:10,-22,Not Cancelled,Not Cancelled,Not Diverted,152,136,18:13,13:10,3:29,0:49,5:46
+11/29/2020,American Airlines Inc.,"Philadelphia, PA","Dallas/Fort Worth, TX",7:00,7:00,0,9:55,10:08,13,Not Cancelled,Not Cancelled,Not Diverted,235,248,14:59,10:22,10:33,2:47,17:49
+11/24/2019,Delta Air Lines Inc.,"Las Vegas, NV","Seattle, WA",7:30,7:25,-5,10:16,10:15,-1,Not Cancelled,Not Cancelled,Not Diverted,166,170,8:56,21:31,11:45,4:42,11:45
+2/19/2021,Southwest Airlines Co.,"Tulsa, OK","Houston, TX",7:05,7:09,4,8:45,8:40,-5,Not Cancelled,Not Cancelled,Not Diverted,100,91,9:29,8:34,2:44,3:27,23:54
+12/21/2020,SkyWest Airlines Inc.,"Scottsbluff, NE","Denver, CO",6:00,5:55,-5,7:07,6:57,-10,Not Cancelled,Not Cancelled,Not Diverted,67,62,9:40,20:56,7:34,1:34,8:27
+12/23/2020,Mesa Airlines Inc.,"Des Moines, IA","Phoenix, AZ",15:54,15:51,-3,18:09,18:01,-8,Not Cancelled,Not Cancelled,Not Diverted,195,190,6:35,8:05,7:21,2:25,23:37
+4/1/2020,JetBlue Airways,"Fort Lauderdale, FL","Raleigh/Durham, NC",20:10,13:24,-2,22:16,15:06,-7,Cancelled,Security,Not Diverted,126,120,18:48,7:24,11:44,1:16,1:29
+9/22/2021,Mesa Airlines Inc.,"Cedar Rapids/Iowa City, IA","Phoenix, AZ",17:07,18:13,66,18:30,19:20,50,Not Cancelled,Not Cancelled,Not Diverted,203,187,0:06,5:49,3:05,0:47,0:44
+11/17/2020,Delta Air Lines Inc.,"Salt Lake City, UT","Missoula, MT",22:21,22:05,-16,23:46,23:21,-25,Not Cancelled,Not Cancelled,Not Diverted,85,76,8:51,13:18,7:30,0:05,26:15:00
+10/18/2022,Endeavor Air Inc.,"Cleveland, OH","Boston, MA",11:54,11:48,-6,13:42,13:23,-19,Not Cancelled,Not Cancelled,Not Diverted,108,95,47:07:00,9:29,14:10,2:05,26:44:00
+9/13/2021,Southwest Airlines Co.,"Las Vegas, NV","Oakland, CA",6:45,6:45,0,8:15,8:12,-3,Not Cancelled,Not Cancelled,Not Diverted,90,87,12:39,5:10,2:42,3:18,20:53
+7/20/2021,Southwest Airlines Co.,"St. Louis, MO","Philadelphia, PA",13:20,13:22,2,16:35,16:22,-13,Not Cancelled,Not Cancelled,Not Diverted,135,120,4:03,13:46,13:01,1:23,16:02
+9/17/2020,Republic Airline,"Minneapolis, MN","Newark, NJ",9:40,9:33,-7,13:22,12:57,-25,Not Cancelled,Not Cancelled,Not Diverted,162,144,11:41,5:16,6:31,3:24,24:26:00
+1/6/2020,Southwest Airlines Co.,"Cleveland, OH","Denver, CO",10:50,10:42,-8,12:20,12:02,-18,Not Cancelled,Not Cancelled,Not Diverted,210,200,11:00,15:42,0:17,0:15,1:36
+11/22/2019,JetBlue Airways,"New York, NY","Houston, TX",13:06,12:57,-9,16:16,15:58,-18,Not Cancelled,Not Cancelled,Not Diverted,250,241,28:42:00,21:36,9:08,4:36,6:32
+12/27/2019,Mesa Airlines Inc.,"Oklahoma City, OK","Houston, TX",5:07,5:01,-6,6:45,6:39,-6,Not Cancelled,Not Cancelled,Not Diverted,98,98,45:49:00,19:17,8:48,1:47,18:01
+7/19/2022,Southwest Airlines Co.,"Palm Springs, CA","Denver, CO",13:20,13:12,-8,16:25,16:33,8,Not Cancelled,Not Cancelled,Not Diverted,125,141,9:47,6:31,3:15,2:20,11:44
+9/23/2019,Alaska Airlines Inc.,"Seattle, WA","Dallas/Fort Worth, TX",23:25,23:23,-2,5:10,4:51,-19,Not Cancelled,Not Cancelled,Not Diverted,225,208,42:52:00,6:51,5:31,4:16,3:34
+8/25/2023,Alaska Airlines Inc.,"Seattle, WA","Kahului, HI",11:50,11:37,-13,15:05,14:41,-24,Not Cancelled,Not Cancelled,Not Diverted,375,364,47:38:00,9:33,9:24,2:28,13:17
+3/17/2021,United Air Lines Inc.,"Denver, CO","Kalispell, MT",11:35,11:42,7,13:47,13:44,-3,Not Cancelled,Not Cancelled,Not Diverted,132,122,31:55:00,2:57,13:47,3:22,19:08
+1/6/2019,Southwest Airlines Co.,"Fort Lauderdale, FL","Tampa, FL",20:35,21:58,83,21:35,22:59,84,Not Cancelled,Not Cancelled,Not Diverted,60,61,0:17,19:23,0:01,4:44,1:06
+3/23/2020,Republic Airline,"New York, NY","Buffalo, NY",15:47,15:51,4,17:20,17:11,-9,Not Cancelled,Not Cancelled,Not Diverted,93,80,15:51,4:13,12:56,4:58,2:58
+12/23/2019,SkyWest Airlines Inc.,"Denver, CO","Hayden, CO",19:35,19:30,-5,20:43,20:24,-19,Not Cancelled,Not Cancelled,Not Diverted,68,54,23:32,14:56,5:03,3:52,9:42
+5/1/2023,Delta Air Lines Inc.,"Madison, WI","Detroit, MI",7:00,6:54,-6,9:16,8:57,-19,Not Cancelled,Not Cancelled,Not Diverted,76,63,36:55:00,1:42,0:00,4:37,20:02
+4/2/2021,Southwest Airlines Co.,"Memphis, TN","Chicago, IL",18:35,18:32,-3,20:05,20:08,3,Not Cancelled,Not Cancelled,Not Diverted,90,96,5:07,1:50,2:30,2:56,24:57:00
+6/28/2019,United Air Lines Inc.,"Sacramento, CA","Chicago, IL",13:55,15:01,66,20:03,20:53,50,Not Cancelled,Not Cancelled,Not Diverted,248,232,0:05,16:39,10:31,3:32,0:45
+5/2/2019,Alaska Airlines Inc.,"Ontario, CA","Seattle, WA",17:00,17:05,5,19:50,19:44,-6,Not Cancelled,Not Cancelled,Not Diverted,170,159,30:52:00,14:36,3:03,1:34,5:37
+11/22/2022,,"Atlanta, GA","Philadelphia, PA",18:55,18:52,-3,20:53,20:31,-22,Not Cancelled,Not Cancelled,Not Diverted,118,99,26:06:00,22:20,14:34,0:29,8:57
+10/4/2021,Alaska Airlines Inc.,"Kotzebue, AK","Anchorage, AK",11:45,11:32,-13,13:10,12:54,-16,Not Cancelled,Not Cancelled,Not Diverted,85,82,48:32:00,10:10,11:30,3:00,25:26:00
+1/19/2022,United Air Lines Inc.,"Denver, CO","New York, NY",15:40,16:10,30,21:17,21:51,34,Not Cancelled,Not Cancelled,Not Diverted,217,221,0:06,21:46,0:04,0:13,0:24
+9/11/2022,Delta Air Lines Inc.,"Los Angeles, CA","New York, NY",23:58,0:12,14,8:30,8:32,2,Not Cancelled,Not Cancelled,Not Diverted,332,320,11:37,6:04,14:45,1:19,18:12
+9/11/2022,SkyWest Airlines Inc.,"Chicago, IL","Rochester, NY",14:13,14:35,22,17:04,17:48,44,Not Cancelled,Not Cancelled,Not Diverted,111,133,0:44,21:56,5:56,3:46,14:26
+1/7/2023,Delta Air Lines Inc.,"Los Angeles, CA","Portland, OR",11:48,13:24,-2,14:28,15:06,-7,Cancelled,Airline/Carrier,Not Diverted,160,120,7:17,10:32,2:21,4:07,22:06
+6/10/2023,Allegiant Air,"Los Angeles, CA","Omaha, NE",14:34,15:19,45,19:40,20:25,45,Not Cancelled,Not Cancelled,Not Diverted,186,186,0:14,16:28,6:22,4:14,0:31
+1/17/2023,Southwest Airlines Co.,"Dallas, TX","Nashville, TN",16:50,16:59,9,18:35,18:23,-12,Not Cancelled,Not Cancelled,Not Diverted,105,84,25:30:00,6:44,1:10,1:07,10:15
+7/13/2021,Envoy Air,"Dallas/Fort Worth, TX","Little Rock, AR",16:35,16:32,-3,17:55,17:44,-11,Not Cancelled,Not Cancelled,Not Diverted,80,72,39:55:00,1:06,3:02,3:59,25:11:00
+12/25/2019,Republic Airline,"Boston, MA","Sarasota/Bradenton, FL",10:35,10:27,-8,14:24,13:39,-45,Not Cancelled,Not Cancelled,Not Diverted,229,192,11:26,17:02,12:50,4:31,22:01
+12/10/2022,Southwest Airlines Co.,"Fort Myers, FL","Baltimore, MD",17:40,17:32,-8,20:00,19:49,-11,Not Cancelled,Not Cancelled,Not Diverted,140,137,33:25:00,3:07,10:03,0:21,1:27
+4/4/2022,American Airlines Inc.,"Charlotte, NC","Richmond, VA",9:00,8:57,-3,10:04,10:00,-4,Not Cancelled,Not Cancelled,Not Diverted,64,63,14:43,9:31,6:49,1:02,7:57
+3/29/2020,Envoy Air,"Chicago, IL","Waterloo, IA",13:18,13:08,-10,14:29,14:06,-23,Not Cancelled,Not Cancelled,Not Diverted,71,58,9:27,12:44,3:50,1:39,13:23
+9/12/2022,JetBlue Airways,"Denver, CO","New York, NY",14:14,14:13,-1,20:00,21:06,66,Not Cancelled,Not Cancelled,Not Diverted,226,293,4:25,1:51,1:06,2:22,27:20:00
+8/21/2023,Endeavor Air Inc.,"New York, NY","Indianapolis, IN",19:50,19:44,-6,22:16,21:56,-20,Not Cancelled,Not Cancelled,Not Diverted,146,132,21:27,17:39,8:54,2:40,25:14:00
+1/20/2020,American Airlines Inc.,"Colorado Springs, CO","Dallas/Fort Worth, TX",16:35,16:30,-5,19:25,19:11,-14,Not Cancelled,Not Cancelled,Not Diverted,110,101,33:31:00,6:43,5:56,4:14,4:44
+3/1/2022,American Airlines Inc.,"Ontario, CA","Dallas/Fort Worth, TX",12:52,12:50,-2,17:44,17:46,2,Not Cancelled,Not Cancelled,Not Diverted,172,176,5:35,3:52,13:05,0:22,10:51
+2/11/2022,Hawaiian Airlines Inc.,"Los Angeles, CA","Lihue, HI",8:30,8:25,-5,12:45,12:21,-24,Not Cancelled,Not Cancelled,Not Diverted,375,356,28:10:00,15:32,6:16,3:16,21:51
+5/10/2021,Delta Air Lines Inc.,"Salt Lake City, UT","Denver, CO",14:40,14:33,-7,16:07,15:48,-19,Not Cancelled,Not Cancelled,Not Diverted,87,75,19:23,3:12,6:06,1:12,25:12:00
+6/3/2022,SkyWest Airlines Inc.,"Vernal, UT","Denver, CO",18:10,18:19,9,19:29,19:59,30,Not Cancelled,Not Cancelled,Not Diverted,79,100,28:23:00,1:09,10:15,2:38,0:30
+3/30/2022,Delta Air Lines Inc.,"Atlanta, GA","Chicago, IL",15:44,15:58,14,16:49,16:47,-2,Not Cancelled,Not Cancelled,Not Diverted,125,109,18:19,19:26,7:34,4:35,23:10
+3/23/2020,Delta Air Lines Inc.,"Detroit, MI","Grand Rapids, MI",22:56,13:24,-2,23:46,15:06,-7,Cancelled,Security,Not Diverted,50,120,43:59:00,2:52,3:53,4:09,18:17
+5/15/2023,United Air Lines Inc.,"Denver, CO","Missoula, MT",19:15,19:45,30,21:17,21:27,10,Not Cancelled,Not Cancelled,Not Diverted,122,102,33:15:00,6:21,2:53,0:22,0:16
+1/17/2023,United Air Lines Inc.,"Washington, DC","Chicago, IL",17:40,17:35,-5,18:54,18:49,-5,Not Cancelled,Not Cancelled,Not Diverted,134,134,20:40,12:38,5:37,0:45,18:19
+11/10/2019,American Airlines Inc.,"Charlotte, NC","Los Angeles, CA",20:28,20:32,4,22:55,22:34,-21,Not Cancelled,Not Cancelled,Not Diverted,327,302,46:10:00,4:32,3:43,0:40,4:45
+12/11/2022,Southwest Airlines Co.,"Tampa, FL","St. Louis, MO",7:55,7:51,-4,9:25,9:10,-15,Not Cancelled,Not Cancelled,Not Diverted,150,139,22:39,17:03,5:48,3:38,1:57
+5/28/2021,SkyWest Airlines Inc.,"Denver, CO","Grand Junction, CO",19:25,19:49,24,20:32,20:52,20,Not Cancelled,Not Cancelled,Not Diverted,67,63,0:20,0:55,4:14,3:06,10:48
+8/21/2021,Delta Air Lines Inc.,"Austin, TX","Detroit, MI",5:25,12:24,419,9:17,16:18,421,Not Cancelled,Not Cancelled,Not Diverted,172,174,6:59,17:01,0:02,2:26,20:15
+5/26/2023,Southwest Airlines Co.,"Long Beach, CA","Reno, NV",10:15,10:28,13,11:40,11:42,2,Not Cancelled,Not Cancelled,Not Diverted,85,74,34:51:00,8:19,11:40,3:32,24:26:00
+11/9/2021,United Air Lines Inc.,"San Antonio, TX","Washington, DC",12:00,11:52,-8,16:02,15:47,-15,Not Cancelled,Not Cancelled,Not Diverted,182,175,9:59,1:27,8:28,2:45,20:50
+11/20/2022,United Air Lines Inc.,"Newark, NJ","Memphis, TN",12:32,12:27,-5,14:22,14:30,8,Not Cancelled,Not Cancelled,Not Diverted,170,183,29:40:00,1:30,1:30,3:46,23:38
+6/21/2022,Delta Air Lines Inc.,"Orlando, FL","New York, NY",7:30,7:24,-6,10:12,9:49,-23,Not Cancelled,Not Cancelled,Not Diverted,162,145,13:02,20:06,6:44,0:04,23:10
+4/4/2022,Delta Air Lines Inc.,"Kansas City, MO","Detroit, MI",14:27,14:20,-7,17:15,17:02,-13,Not Cancelled,Not Cancelled,Not Diverted,108,102,48:48:00,18:20,14:18,3:58,16:50
+4/5/2023,Spirit Air Lines,"Milwaukee, WI","Orlando, FL",9:55,9:59,4,13:39,13:32,-7,Not Cancelled,Not Cancelled,Not Diverted,164,153,13:40,16:33,12:45,3:22,11:30
+6/27/2019,Delta Air Lines Inc.,"Atlanta, GA","Sarasota/Bradenton, FL",17:30,17:22,-8,19:11,18:50,-21,Not Cancelled,Not Cancelled,Not Diverted,101,88,41:15:00,19:48,14:39,2:21,1:46
+5/18/2023,Spirit Air Lines,"Philadelphia, PA","Las Vegas, NV",18:18,18:20,2,20:50,21:23,33,Not Cancelled,Not Cancelled,Not Diverted,332,363,0:02,5:34,0:31,2:46,9:45
+6/6/2021,American Airlines Inc.,"Chicago, IL","Seattle, WA",19:05,19:00,-5,21:47,21:20,-27,Not Cancelled,Not Cancelled,Not Diverted,282,260,34:10:00,8:55,2:03,0:13,26:28:00
+5/23/2022,Republic Airline,"New York, NY","Boston, MA",15:00,16:08,68,16:23,17:08,45,Not Cancelled,Not Cancelled,Not Diverted,83,60,46:54:00,9:36,12:19,3:08,0:45
+3/3/2022,United Air Lines Inc.,"Houston, TX","Tulsa, OK",20:10,20:09,-1,21:44,21:36,-8,Not Cancelled,Not Cancelled,Not Diverted,94,87,19:31,4:30,0:48,1:04,14:26
+7/2/2022,Southwest Airlines Co.,"Phoenix, AZ","Denver, CO",22:05,22:31,26,0:45,1:02,17,Not Cancelled,Not Cancelled,Not Diverted,100,91,6:57,16:54,12:58,0:07,0:17
+11/11/2019,,"Sacramento, CA","Salt Lake City, UT",16:42,16:37,-5,19:32,19:16,-16,Not Cancelled,Not Cancelled,Not Diverted,110,99,7:56,12:09,7:54,3:22,28:00:00
+10/10/2021,Delta Air Lines Inc.,"Boston, MA","Las Vegas, NV",9:15,9:15,0,12:04,12:06,2,Not Cancelled,Not Cancelled,Not Diverted,349,351,10:19,19:00,11:50,4:19,21:52
+4/26/2023,Southwest Airlines Co.,"Fort Lauderdale, FL","Austin, TX",19:25,21:53,148,21:35,0:22,167,Not Cancelled,Not Cancelled,Not Diverted,190,209,30:51:00,0:47,0:19,3:36,1:41
+9/26/2021,Frontier Airlines Inc.,"Ontario, CA","Phoenix, AZ",17:28,17:23,-5,18:47,18:36,-11,Not Cancelled,Not Cancelled,Not Diverted,79,73,41:23:00,5:48,5:10,2:06,14:44
+5/18/2023,JetBlue Airways,"Fort Lauderdale, FL","Los Angeles, CA",19:55,19:51,-4,22:48,22:22,-26,Not Cancelled,Not Cancelled,Not Diverted,353,331,29:11:00,12:39,1:44,4:36,22:07
+4/8/2020,SkyWest Airlines Inc.,"Madison, WI","Detroit, MI",13:00,12:53,-7,15:08,14:56,-12,Not Cancelled,Not Cancelled,Not Diverted,68,63,19:07,21:50,0:58,2:14,6:09
+5/27/2023,Southwest Airlines Co.,"Baltimore, MD","Orlando, FL",9:25,9:19,-6,11:45,11:25,-20,Not Cancelled,Not Cancelled,Not Diverted,140,126,39:21:00,12:12,7:03,0:47,15:20
+7/4/2019,SkyWest Airlines Inc.,"Minneapolis, MN","Helena, MT",17:49,17:44,-5,19:40,19:37,-3,Not Cancelled,Not Cancelled,Not Diverted,171,173,15:39,7:01,9:07,3:20,0:18
+5/31/2022,American Airlines Inc.,"Charlotte Amalie, VI","Charlotte, NC",14:23,14:03,-20,18:19,17:54,-25,Not Cancelled,Not Cancelled,Not Diverted,236,231,19:48,12:15,3:52,2:56,21:01
+11/10/2019,United Air Lines Inc.,"Denver, CO","Lihue, HI",9:35,9:32,-3,14:31,14:21,-10,Not Cancelled,Not Cancelled,Not Diverted,476,469,36:31:00,3:30,0:06,4:51,8:42
+6/21/2019,American Airlines Inc.,"Newark, NJ","Charlotte, NC",5:00,4:58,-2,6:47,6:48,1,Not Cancelled,Not Cancelled,Not Diverted,107,110,46:39:00,8:36,3:31,2:03,8:00
+8/5/2019,United Air Lines Inc.,"New York, NY","Houston, TX",17:25,22:19,294,20:25,0:41,256,Not Cancelled,Not Cancelled,Not Diverted,240,202,0:16,16:33,11:13,0:34,4:00
+11/17/2020,SkyWest Airlines Inc.,"Nashville, TN","Minneapolis, MN",14:30,14:25,-5,16:46,16:44,-2,Not Cancelled,Not Cancelled,Not Diverted,136,139,39:38:00,13:32,4:12,4:37,7:48
+8/15/2021,Endeavor Air Inc.,"New York, NY","Birmingham, AL",19:40,19:39,-1,21:03,21:03,0,Not Cancelled,Not Cancelled,Not Diverted,143,144,19:03,4:26,3:38,2:46,23:40
+7/18/2021,Endeavor Air Inc.,"Greer, SC","Detroit, MI",18:20,18:15,-5,20:09,19:49,-20,Not Cancelled,Not Cancelled,Not Diverted,109,94,47:25:00,10:09,9:54,1:48,1:18
+2/16/2023,United Air Lines Inc.,"Chicago, IL","Fort Myers, FL",13:58,16:08,130,17:55,20:22,147,Not Cancelled,Not Cancelled,Not Diverted,177,194,0:02,0:25,0:17,2:05,1:45
+11/15/2021,Frontier Airlines Inc.,"Colorado Springs, CO","Orlando, FL",23:23,22:59,-24,4:54,4:44,-10,Not Cancelled,Not Cancelled,Not Diverted,211,225,2:49,10:54,7:18,4:22,19:02
+1/22/2021,United Air Lines Inc.,"Newark, NJ","Charlotte Amalie, VI",8:20,8:20,0,13:19,13:02,-17,Not Cancelled,Not Cancelled,Not Diverted,239,222,10:57,12:32,7:26,2:57,16:28
+6/7/2022,Southwest Airlines Co.,"Denver, CO","Tulsa, OK",15:40,16:01,21,18:10,18:27,17,Not Cancelled,Not Cancelled,Not Diverted,90,86,1:36,21:00,4:26,3:56,0:17
+6/30/2021,American Airlines Inc.,"Austin, TX","Las Vegas, NV",19:30,21:55,145,20:21,22:37,136,Not Cancelled,Not Cancelled,Not Diverted,171,162,39:04:00,7:48,4:23,4:26,2:16
+10/19/2019,Spirit Air Lines,"Orlando, FL","Atlantic City, NJ",9:35,9:38,3,11:50,12:09,19,Not Cancelled,Not Cancelled,Not Diverted,135,151,14:32,7:42,0:19,1:50,11:10
+3/12/2020,Delta Air Lines Inc.,"Newark, NJ","Atlanta, GA",16:45,16:38,-7,19:14,18:47,-27,Not Cancelled,Not Cancelled,Not Diverted,149,129,20:07,22:01,1:27,0:54,19:06
+10/15/2022,American Airlines Inc.,"Phoenix, AZ","Philadelphia, PA",10:22,10:15,-7,17:50,17:58,8,Not Cancelled,Not Cancelled,Not Diverted,268,283,35:40:00,19:39,10:24,2:53,14:37
+11/7/2022,Southwest Airlines Co.,"Atlanta, GA","Fort Lauderdale, FL",8:15,8:13,-2,10:20,9:54,-26,Not Cancelled,Not Cancelled,Not Diverted,125,101,31:45:00,5:32,3:37,2:55,1:15
+12/11/2020,SkyWest Airlines Inc.,"Denver, CO","El Paso, TX",17:45,17:48,3,19:38,19:56,18,Not Cancelled,Not Cancelled,Not Diverted,113,128,0:18,10:09,14:41,3:57,24:34:00
+8/18/2022,Endeavor Air Inc.,"Bristol/Johnson City/Kingsport, TN","Atlanta, GA",6:15,7:11,,7:18,8:14,56,Not Cancelled,Not Cancelled,Not Diverted,63,63,0:56,12:39,8:26,0:53,22:37
+3/25/2019,United Air Lines Inc.,"New York, NY","Chicago, IL",16:30,16:28,-2,18:24,18:05,-19,Not Cancelled,Not Cancelled,Not Diverted,174,157,26:35:00,18:16,3:28,4:57,0:54
+7/8/2021,Delta Air Lines Inc.,"San Francisco, CA","Detroit, MI",22:30,22:31,1,6:04,5:49,-15,Not Cancelled,Not Cancelled,,274,258,8:22,9:20,1:43,1:41,0:43
+5/26/2022,Southwest Airlines Co.,"Los Angeles, CA","San Jose, CA",13:20,13:37,17,14:25,14:34,9,Not Cancelled,Not Cancelled,Not Diverted,65,57,37:28:00,13:19,5:07,3:47,24:28:00
+9/19/2019,Delta Air Lines Inc.,"Missoula, MT","Minneapolis, MN",5:25,5:25,0,8:58,8:53,-5,Not Cancelled,Not Cancelled,Not Diverted,153,148,23:09,3:17,7:54,2:03,4:24
+9/15/2021,Delta Air Lines Inc.,"New York, NY","Detroit, MI",6:10,6:04,-6,7:50,7:42,-8,Not Cancelled,Not Cancelled,Not Diverted,100,98,14:23,14:28,1:42,3:02,14:16
+6/28/2023,Delta Air Lines Inc.,"Atlanta, GA","Honolulu, HI",10:15,10:13,-2,13:54,13:32,-22,Not Cancelled,Not Cancelled,Not Diverted,579,559,7:50,17:13,3:14,4:25,19:05
+4/20/2019,Endeavor Air Inc.,"Boston, MA","Savannah, GA",8:05,7:59,-6,10:57,11:02,5,Not Cancelled,Not Cancelled,Not Diverted,172,183,42:26:00,0:52,4:17,2:34,14:26
+4/9/2022,Southwest Airlines Co.,"St. Louis, MO","Philadelphia, PA",8:35,8:46,11,11:40,11:43,3,Not Cancelled,Not Cancelled,Not Diverted,125,117,13:29,18:11,4:47,3:09,20:43
+3/25/2022,American Airlines Inc.,"Washington, DC","Boston, MA",10:00,9:58,-2,11:30,11:21,-9,Not Cancelled,Not Cancelled,Not Diverted,90,83,46:42:00,18:06,14:12,4:26,23:26
+8/17/2022,Frontier Airlines Inc.,"Fort Lauderdale, FL","Philadelphia, PA",18:31,19:30,59,21:21,22:09,48,Not Cancelled,Not Cancelled,Not Diverted,170,159,0:48,17:15,13:05,4:21,12:43
+10/26/2019,American Airlines Inc.,"Charlotte, NC","Orlando, FL",18:10,18:08,-2,19:54,19:45,-9,Not Cancelled,Not Cancelled,Not Diverted,104,97,47:21:00,7:39,14:45,2:49,1:24
+7/18/2020,American Airlines Inc.,"Dallas/Fort Worth, TX","Tulsa, OK",14:46,14:45,-1,15:51,15:44,-7,Not Cancelled,Not Cancelled,Not Diverted,65,59,26:57:00,5:06,1:08,3:07,6:51
+2/16/2023,Endeavor Air Inc.,"Detroit, MI","Kalamazoo, MI",22:50,11:57,787,23:53,13:00,787,Not Cancelled,Not Cancelled,Not Diverted,63,63,19:58,13:07,7:54,4:11,8:13
+9/1/2019,American Airlines Inc.,"Fort Myers, FL","Chicago, IL",11:45,11:40,-5,13:59,13:44,-15,Not Cancelled,Not Cancelled,Not Diverted,194,184,36:19:00,2:02,8:13,1:23,23:24
+9/2/2022,Southwest Airlines Co.,"San Diego, CA","El Paso, TX",14:40,14:35,-5,17:25,17:17,-8,Not Cancelled,Not Cancelled,Not Diverted,105,102,35:45:00,2:16,4:53,2:06,4:13
+1/4/2019,Delta Air Lines Inc.,"Minneapolis, MN","Spokane, WA",12:32,12:29,-3,13:57,13:37,-20,Not Cancelled,Not Cancelled,Not Diverted,205,188,46:26:00,10:16,8:01,4:24,23:23
+10/14/2019,American Airlines Inc.,"Honolulu, HI","Los Angeles, CA",22:20,22:20,0,6:51,6:44,-7,Not Cancelled,Not Cancelled,Not Diverted,331,324,36:55:00,19:09,1:31,2:36,18:11
+8/16/2023,Spirit Air Lines,"Orlando, FL","Chicago, IL",12:10,14:17,127,14:15,15:52,97,Not Cancelled,Not Cancelled,Not Diverted,185,155,1:37,18:54,12:13,3:18,19:34
+8/5/2023,Delta Air Lines Inc.,"Minneapolis, MN","Orlando, FL",15:49,15:45,-4,20:05,19:54,-11,Not Cancelled,Not Cancelled,Not Diverted,196,189,33:23:00,18:59,13:12,1:29,20:35
+12/26/2022,Spirit Air Lines,"Atlantic City, NJ","Orlando, FL",5:40,7:57,137,8:14,10:26,132,Not Cancelled,Not Cancelled,Not Diverted,154,149,47:13:00,8:55,2:12,0:22,9:34
+5/4/2022,Republic Airline,"New York, NY","Columbus, OH",20:17,20:11,-6,22:22,21:49,-33,Not Cancelled,Not Cancelled,Not Diverted,125,98,8:02,22:18,6:41,3:35,15:07
+1/3/2022,Delta Air Lines Inc.,"Atlanta, GA","Oklahoma City, OK",19:30,19:30,0,20:46,20:38,-8,Not Cancelled,Not Cancelled,Not Diverted,136,128,31:21:00,13:21,7:20,4:06,12:16
+1/21/2020,Delta Air Lines Inc.,"Detroit, MI","St. Louis, MO",15:40,15:32,-8,16:25,15:59,-26,Not Cancelled,Not Cancelled,Not Diverted,105,87,30:44:00,19:56,9:05,0:08,13:05
+8/29/2023,Southwest Airlines Co.,"Houston, TX","Denver, CO",19:20,19:21,1,20:50,20:47,-3,Not Cancelled,Not Cancelled,Not Diverted,150,146,24:46:00,20:55,4:47,3:14,8:53
+6/23/2023,Southwest Airlines Co.,"Chicago, IL","Nashville, TN",6:30,6:26,-4,7:55,7:47,-8,Not Cancelled,Not Cancelled,Not Diverted,85,81,23:53,2:04,5:36,1:05,4:10
+6/22/2019,Alaska Airlines Inc.,"Seattle, WA","Albuquerque, NM",18:15,18:07,-8,22:15,22:03,-12,Not Cancelled,Not Cancelled,Not Diverted,180,176,15:44,22:26,11:43,4:57,6:19
+6/27/2020,Southwest Airlines Co.,"Charleston, SC","Dallas, TX",13:50,14:06,16,15:30,15:32,2,Not Cancelled,Not Cancelled,Not Diverted,160,146,29:59:00,12:10,12:23,4:11,3:07
+2/25/2023,Spirit Air Lines,"Charlotte Amalie, VI","Fort Lauderdale, FL",17:25,17:13,-12,19:23,19:04,-19,Not Cancelled,Not Cancelled,Not Diverted,178,171,29:09:00,17:48,6:39,4:59,2:48
+9/5/2020,Endeavor Air Inc.,"Minneapolis, MN","Appleton, WI",20:05,20:20,15,21:10,21:20,10,Not Cancelled,Not Cancelled,Not Diverted,65,60,1:18,15:58,1:04,0:30,12:09
+5/18/2023,Delta Air Lines Inc.,"Boston, MA","Nashville, TN",17:05,17:06,1,19:02,19:04,2,Not Cancelled,Not Cancelled,Not Diverted,177,178,47:12:00,9:01,2:38,4:16,27:14:00
+2/27/2020,American Airlines Inc.,"Dallas/Fort Worth, TX","Orlando, FL",18:53,19:49,56,22:28,22:58,30,Not Cancelled,Not Cancelled,Not Diverted,155,129,0:20,9:51,7:07,2:39,0:10
+9/5/2022,Delta Air Lines Inc.,"Seattle, WA","Sacramento, CA",11:15,11:20,5,13:11,13:02,-9,Not Cancelled,Not Cancelled,Not Diverted,116,102,18:03,6:29,7:08,4:08,7:31
+5/9/2023,SkyWest Airlines Inc.,,"Atlanta, GA",17:25,17:21,-4,19:02,18:54,-8,Not Cancelled,Not Cancelled,Not Diverted,97,93,30:42:00,6:39,0:58,0:36,27:45:00
+8/19/2023,Endeavor Air Inc.,"Brunswick, GA","Atlanta, GA",7:30,7:21,-9,8:41,8:28,-13,Not Cancelled,Not Cancelled,Not Diverted,71,67,14:55,10:12,1:12,3:58,22:37
+2/11/2020,Delta Air Lines Inc.,"Detroit, MI","Fort Lauderdale, FL",7:05,7:05,0,10:22,10:10,-12,Not Cancelled,Not Cancelled,Not Diverted,197,185,47:23:00,7:26,13:46,3:35,18:50
+11/24/2021,Alaska Airlines Inc.,"Los Angeles, CA","Kona, HI",12:20,12:47,27,16:30,16:29,-1,Not Cancelled,Not Cancelled,Not Diverted,370,342,32:44:00,5:49,9:10,4:06,23:57
+6/14/2019,Delta Air Lines Inc.,"West Palm Beach/Palm Beach, FL","Atlanta, GA",8:00,7:52,-8,9:46,9:44,-2,Not Cancelled,Not Cancelled,Not Diverted,106,112,34:47:00,11:13,5:10,1:32,23:35
+9/26/2022,American Airlines Inc.,"Phoenix, AZ","Portland, OR",10:13,10:18,5,13:02,13:15,13,Not Cancelled,Not Cancelled,Not Diverted,169,177,0:44,3:39,6:05,4:12,18:00
+12/27/2022,Southwest Airlines Co.,"Las Vegas, NV","Houston, TX",17:15,22:03,288,22:05,2:45,280,Not Cancelled,Not Cancelled,Not Diverted,170,162,0:26,6:08,0:44,2:37,4:14
+12/26/2020,SkyWest Airlines Inc.,"Washington, DC","Chicago, IL",6:30,6:30,0,8:01,7:50,-11,Not Cancelled,Not Cancelled,Not Diverted,151,140,6:13,7:08,7:59,3:39,5:37
+1/20/2022,Horizon Air,"Oakland, CA","Seattle, WA",7:00,6:50,-10,9:08,8:50,-18,Not Cancelled,Not Cancelled,Not Diverted,128,120,21:25,20:48,5:22,3:30,5:40
+10/18/2020,Southwest Airlines Co.,"Columbus, OH","Chicago, IL",13:30,13:49,19,13:45,13:53,8,Not Cancelled,Not Cancelled,Not Diverted,75,64,45:32:00,2:18,10:00,4:00,10:51
+11/8/2022,JetBlue Airways,"Minneapolis, MN","New York, NY",10:42,10:53,11,14:34,14:31,-3,Not Cancelled,Not Cancelled,Not Diverted,172,158,20:22,11:54,6:20,4:14,14:15
+7/16/2019,American Airlines Inc.,"Nashville, TN","Miami, FL",17:39,17:36,-3,21:01,20:45,-16,Not Cancelled,Not Cancelled,Not Diverted,142,129,24:39:00,22:09,0:55,3:59,10:51
+8/25/2019,PSA Airlines Inc.,"Charlotte, NC","New Bern/Morehead/Beaufort, NC",18:00,17:53,-7,19:06,18:53,-13,Not Cancelled,Not Cancelled,Not Diverted,66,60,11:29,21:06,13:41,0:49,19:04
+1/17/2023,Endeavor Air Inc.,"Minneapolis, MN","Green Bay, WI",19:55,19:59,4,21:04,21:08,4,Not Cancelled,Not Cancelled,Not Diverted,69,69,20:16,21:45,14:20,1:33,12:53
+4/20/2019,Mesa Airlines Inc.,"Washington, DC","Charleston, SC",22:30,22:22,-8,0:13,0:48,35,Not Cancelled,Not Cancelled,Not Diverted,103,146,41:07:00,23:09,0:35,0:37,0:51
+5/6/2021,Republic Airline,"El Paso, TX","Chicago, IL",8:15,8:09,-6,12:26,12:06,-20,Not Cancelled,Not Cancelled,Not Diverted,191,177,7:02,13:05,6:34,1:14,1:05
+5/18/2019,American Airlines Inc.,"Miami, FL","Tampa, FL",10:55,10:53,-2,12:06,12:05,-1,Not Cancelled,Not Cancelled,Not Diverted,71,72,8:51,17:08,0:50,4:37,23:42
+1/7/2020,American Airlines Inc.,"Austin, TX","Dallas/Fort Worth, TX",18:27,18:25,-2,19:35,19:38,3,Not Cancelled,Not Cancelled,Not Diverted,68,73,29:59:00,14:04,6:58,4:06,23:58
+4/24/2020,Republic Airline,"Indianapolis, IN","Washington, DC",5:50,5:40,-10,7:31,7:00,-31,Not Cancelled,Not Cancelled,Not Diverted,101,80,6:37,9:04,14:18,0:20,21:23
+3/19/2022,Spirit Air Lines,"Dallas/Fort Worth, TX","Los Angeles, CA",20:32,21:56,84,21:48,23:17,89,Not Cancelled,Not Cancelled,Not Diverted,196,201,1:09,16:03,0:05,3:40,0:15
+2/12/2022,JetBlue Airways,"Houston, TX","New York, NY",16:01,16:31,30,20:32,20:43,11,Not Cancelled,Not Cancelled,Not Diverted,211,192,18:28,14:40,1:36,3:25,21:16
+4/21/2019,American Airlines Inc.,"Columbus, OH","Phoenix, AZ",18:08,18:13,5,19:32,19:21,-11,Not Cancelled,Not Cancelled,Not Diverted,264,248,0:16,20:12,14:11,1:28,17:50
+3/24/2023,SkyWest Airlines Inc.,"Sacramento, CA","San Diego, CA",9:40,9:34,-6,11:08,10:58,-10,Not Cancelled,Not Cancelled,Not Diverted,88,84,19:08,20:11,10:21,2:09,5:17
+11/6/2020,United Air Lines Inc.,"Newark, NJ","Boston, MA",15:00,14:56,-4,16:10,15:57,-13,Not Cancelled,Not Cancelled,Not Diverted,70,61,29:48:00,13:58,6:51,4:22,5:44
+11/28/2022,Alaska Airlines Inc.,"Seattle, WA","Denver, CO",9:40,10:23,43,13:20,14:01,41,Not Cancelled,Not Cancelled,Not Diverted,160,158,46:34:00,9:41,8:40,0:40,0:41
+3/30/2019,United Air Lines Inc.,"Houston, TX","Hayden, CO",12:00,11:53,-7,13:56,13:32,-24,Not Cancelled,Not Cancelled,Not Diverted,176,159,19:44,14:41,12:08,3:36,1:06
+2/27/2019,SkyWest Airlines Inc.,"Twin Falls, ID","Salt Lake City, UT",18:00,18:27,27,19:06,19:26,20,Not Cancelled,Not Cancelled,Not Diverted,66,59,30:13:00,0:20,3:20,1:42,21:06
+7/14/2021,SkyWest Airlines Inc.,"Seattle, WA","San Francisco, CA",11:15,11:19,4,13:37,13:24,-13,Not Cancelled,Not Cancelled,Not Diverted,142,125,20:14,0:31,12:59,0:46,26:15:00
+8/10/2021,Republic Airline,"Chicago, IL","Washington, DC",17:53,21:08,195,20:58,2:05,307,Not Cancelled,Not Cancelled,Not Diverted,125,237,26:15:00,3:15,1:52,2:48,22:25
+4/26/2022,Southwest Airlines Co.,"Las Vegas, NV","Los Angeles, CA",15:15,15:19,4,16:25,16:25,0,Not Cancelled,Not Cancelled,Not Diverted,70,66,35:04:00,11:04,14:06,4:30,2:49
+9/4/2019,American Airlines Inc.,"Miami, FL","Tampa, FL",13:37,13:31,-6,14:40,14:24,-16,Not Cancelled,Not Cancelled,Not Diverted,63,53,33:50:00,5:48,11:23,4:56,23:46
+8/16/2022,United Air Lines Inc.,"Newark, NJ","Salt Lake City, UT",19:59,21:34,95,23:09,0:33,84,Not Cancelled,Not Cancelled,Not Diverted,310,299,0:20,22:28,11:45,4:54,1:04
+4/5/2020,United Air Lines Inc.,"San Francisco, CA","Los Angeles, CA",7:30,13:24,-2,9:16,15:06,-7,Cancelled,Security,Not Diverted,106,120,9:47,4:44,11:39,3:22,19:06
+5/23/2019,Southwest Airlines Co.,"Hartford, CT","Baltimore, MD",17:30,17:51,21,18:50,19:01,11,Not Cancelled,Not Cancelled,Not Diverted,80,70,13:49,13:45,10:35,4:08,13:27
+3/6/2023,Envoy Air,"Cincinnati, OH","Miami, FL",6:03,6:00,-3,8:38,8:31,-7,Not Cancelled,Not Cancelled,Not Diverted,155,151,21:22,21:10,3:06,2:47,12:15
+12/11/2020,Allegiant Air,"Sanford, FL","Cincinnati, OH",11:22,11:13,-9,13:30,13:19,-11,Not Cancelled,Not Cancelled,Not Diverted,128,126,37:59:00,7:27,7:33,4:30,3:47
+8/8/2020,Delta Air Lines Inc.,"Austin, TX","Salt Lake City, UT",15:05,14:58,-7,16:50,16:38,-12,Not Cancelled,Not Cancelled,Not Diverted,165,160,29:30:00,17:56,14:46,1:06,26:30:00
+8/8/2022,Envoy Air,"Cincinnati, OH","Miami, FL",12:20,12:16,-4,14:50,14:42,-8,Not Cancelled,Not Cancelled,Not Diverted,150,146,31:38:00,8:40,9:37,3:59,5:32
+8/2/2019,Delta Air Lines Inc.,"Raleigh/Durham, NC","Atlanta, GA",16:30,16:46,16,18:06,18:13,7,Not Cancelled,Not Cancelled,Not Diverted,96,87,37:25:00,3:52,4:24,4:01,4:25
+1/7/2022,Hawaiian Airlines Inc.,"Kona, HI","Honolulu, HI",12:45,12:39,-6,13:34,13:33,-1,Not Cancelled,Not Cancelled,Not Diverted,49,54,5:14,5:54,3:45,2:14,8:25
+3/6/2019,Southwest Airlines Co.,"Chicago, IL","Dallas, TX",18:25,18:43,18,20:50,20:49,-1,Not Cancelled,Not Cancelled,Not Diverted,145,126,29:43:00,1:37,8:00,4:23,11:17
+4/3/2021,Spirit Air Lines,"Austin, TX","Las Vegas, NV",20:28,20:18,-10,21:33,21:03,-30,Not Cancelled,Not Cancelled,Not Diverted,185,165,29:58:00,5:24,2:50,4:19,23:19
+4/29/2022,Spirit Air Lines,"Minneapolis, MN","Atlanta, GA",9:59,10:13,14,13:29,13:28,-1,Not Cancelled,Not Cancelled,Not Diverted,150,135,24:25:00,9:08,3:51,1:45,21:30
+1/6/2023,Alaska Airlines Inc.,"San Francisco, CA","Kahului, HI",12:05,12:05,0,15:43,16:24,41,Not Cancelled,Not Cancelled,Not Diverted,338,379,25:03:00,22:25,0:41,0:36,23:37
+7/14/2023,Delta Air Lines Inc.,"Pittsburgh, PA","Minneapolis, MN",6:20,6:16,-4,7:27,7:19,-8,Not Cancelled,Not Cancelled,Not Diverted,127,123,36:37:00,6:36,9:56,4:59,16:36
+1/15/2023,Republic Airline,"Philadelphia, PA","Fort Myers, FL",10:47,10:39,-8,13:53,13:33,-20,Not Cancelled,Not Cancelled,Not Diverted,186,174,43:28:00,5:26,14:44,0:44,19:37
+12/26/2019,Republic Airline,"New York, NY","Columbus, OH",13:29,13:56,27,15:30,15:36,6,Not Cancelled,Not Cancelled,Not Diverted,121,,31:54:00,4:10,11:36,1:57,12:42
+10/28/2020,SkyWest Airlines Inc.,"Monterey, CA","Denver, CO",12:33,12:30,-3,16:15,15:57,-18,Not Cancelled,Not Cancelled,Not Diverted,162,147,1:21,23:01,13:45,4:27,19:58
+5/26/2022,SkyWest Airlines Inc.,"Monterey, CA","Seattle, WA",14:50,14:52,2,17:00,16:51,-9,Not Cancelled,Not Cancelled,Not Diverted,130,119,28:43:00,7:23,1:37,1:57,25:51:00
+6/10/2022,United Air Lines Inc.,"Tampa, FL","Chicago, IL",7:43,7:41,-2,9:39,9:30,-9,Not Cancelled,Not Cancelled,Not Diverted,176,169,9:53,5:50,7:17,2:05,0:04
+5/25/2022,Southwest Airlines Co.,"Denver, CO","Palm Springs, CA",13:45,13:46,1,15:00,14:44,-16,Not Cancelled,Not Cancelled,Not Diverted,135,118,33:46:00,5:50,1:43,4:27,21:27
+5/5/2019,Southwest Airlines Co.,"Baltimore, MD","Indianapolis, IN",11:15,12:21,66,13:00,13:54,54,Not Cancelled,Not Cancelled,Not Diverted,105,93,0:54,18:44,6:18,1:30,23:57
+7/8/2019,PSA Airlines Inc.,"Oklahoma City, OK","Charlotte, NC",7:06,6:57,-9,10:46,10:35,-11,Not Cancelled,Not Cancelled,Not Diverted,160,158,27:12:00,6:25,1:26,3:21,18:15
+10/25/2022,American Airlines Inc.,"Charlotte, NC","New Orleans, LA",9:28,9:25,-3,10:42,10:24,-18,Not Cancelled,Not Cancelled,Not Diverted,134,119,41:35:00,6:26,1:47,2:04,3:24
+1/18/2020,Southwest Airlines Co.,"Orlando, FL","Buffalo, NY",18:30,19:00,30,21:00,21:22,22,Not Cancelled,Not Cancelled,Not Diverted,150,142,28:41:00,7:52,8:36,4:49,0:22
+9/30/2020,Republic Airline,"Charlotte, NC","Pittsburgh, PA",14:52,14:46,-6,16:25,16:08,-17,Not Cancelled,Not Cancelled,Not Diverted,93,82,20:42,14:19,6:12,2:16,6:47
+9/27/2020,Southwest Airlines Co.,"Nashville, TN","Atlanta, GA",9:15,9:09,-6,11:20,11:04,-16,Not Cancelled,Not Cancelled,Not Diverted,65,55,45:32:00,4:01,5:25,4:28,1:37
+7/24/2022,Southwest Airlines Co.,"New Orleans, LA","Tampa, FL",21:45,22:20,35,0:15,0:45,30,Not Cancelled,Not Cancelled,Not Diverted,90,85,38:42:00,12:26,10:13,2:19,0:30
+2/27/2020,Spirit Air Lines,"Fort Lauderdale, FL","Denver, CO",20:21,20:34,13,22:55,22:58,3,Not Cancelled,Not Cancelled,Not Diverted,274,264,37:35:00,14:49,1:37,2:52,19:37
+4/6/2022,American Airlines Inc.,"Philadelphia, PA","Fort Lauderdale, FL",8:04,7:58,-6,10:44,10:33,-11,Not Cancelled,Not Cancelled,Not Diverted,160,155,44:18:00,8:26,14:17,1:58,21:03
+1/28/2021,American Airlines Inc.,"Houston, TX","Charlotte, NC",8:39,8:32,-7,12:05,11:46,-19,Not Cancelled,Not Cancelled,Not Diverted,146,134,15:59,21:37,13:35,2:39,19:18
+10/25/2022,Frontier Airlines Inc.,"Miami, FL","Cincinnati, OH",8:55,8:49,-6,11:38,11:30,-8,Not Cancelled,Not Cancelled,Not Diverted,163,161,15:20,5:32,1:03,2:59,21:53
+8/27/2019,Southwest Airlines Co.,"Albuquerque, NM","Denver, CO",8:45,8:39,-6,10:00,10:16,16,Not Cancelled,Not Cancelled,Not Diverted,75,97,46:41:00,11:57,0:16,3:08,0:03
+5/25/2020,Alaska Airlines Inc.,"Seattle, WA","New York, NY",12:45,12:37,-8,21:18,20:48,-30,Not Cancelled,Not Cancelled,Not Diverted,333,311,35:14:00,22:15,5:38,4:37,25:38:00
+2/21/2023,Southwest Airlines Co.,"San Jose, CA","Santa Ana, CA",19:55,20:04,9,21:15,21:07,-8,Not Cancelled,Not Cancelled,Not Diverted,80,63,22:26,4:30,10:15,3:52,22:34
+12/27/2019,American Airlines Inc.,"Boston, MA","Los Angeles, CA",11:02,11:02,0,14:52,14:36,-16,Not Cancelled,Not Cancelled,Not Diverted,410,394,1:21,8:58,4:46,0:21,4:11
+1/5/2023,SkyWest Airlines Inc.,"Denver, CO","Aspen, CO",17:31,17:27,-4,18:29,18:18,-11,Not Cancelled,Not Cancelled,Not Diverted,58,51,13:42,8:31,6:18,2:23,12:21
+8/17/2020,American Airlines Inc.,"New York, NY","Charlotte, NC",12:59,12:58,-1,14:58,14:45,-13,Not Cancelled,Not Cancelled,Not Diverted,119,107,10:13,17:14,1:40,1:52,9:34
+3/19/2023,United Air Lines Inc.,"Miami, FL","Washington, DC",13:57,13:56,-1,16:25,16:17,-8,Not Cancelled,Not Cancelled,Not Diverted,148,141,24:10:00,15:21,10:42,4:53,6:41
+11/9/2021,SkyWest Airlines Inc.,"Kansas City, MO","Denver, CO",17:10,17:05,-5,18:08,17:52,-16,Not Cancelled,Not Cancelled,Not Diverted,118,107,47:28:00,10:56,4:17,3:58,25:35:00
+1/7/2023,Southwest Airlines Co.,"Baltimore, MD","Charlotte, NC",15:30,15:29,-1,17:05,16:41,-24,Not Cancelled,Not Cancelled,Not Diverted,95,72,11:22,16:02,7:30,3:39,10:16
+1/5/2020,United Air Lines Inc.,"Chicago, IL","Cleveland, OH",21:10,21:05,-5,23:26,23:19,-7,Not Cancelled,Not Cancelled,Not Diverted,76,74,6:06,2:50,6:18,0:44,27:38:00
+8/20/2021,Southwest Airlines Co.,"Washington, DC","Chicago, IL",14:55,15:28,33,15:50,16:14,24,Not Cancelled,Not Cancelled,Not Diverted,115,106,0:08,0:06,9:29,1:43,0:16
+7/3/2019,United Air Lines Inc.,"San Diego, CA","Houston, TX",15:35,15:26,-9,20:48,20:34,-14,Not Cancelled,Not Cancelled,Not Diverted,193,188,19:31,2:45,3:33,1:57,23:33
+1/21/2019,Envoy Air,"Chicago, IL","St. Louis, MO",16:30,17:14,44,17:45,18:23,38,Not Cancelled,Not Cancelled,Not Diverted,75,69,2:45,0:16,0:49,0:59,0:22
+4/20/2022,United Air Lines Inc.,"Newark, NJ","Las Vegas, NV",16:30,16:23,-7,19:07,19:07,0,Not Cancelled,Not Cancelled,Not Diverted,337,344,29:32:00,0:29,4:03,3:09,16:54
+9/11/2021,American Airlines Inc.,"Washington, DC","Charleston, SC",17:00,16:41,-19,18:38,18:05,-33,Not Cancelled,Not Cancelled,Not Diverted,98,84,30:14:00,20:35,5:27,0:32,1:50
+8/17/2022,American Airlines Inc.,"Chicago, IL","Newark, NJ",10:00,9:53,-7,13:02,12:58,-4,Not Cancelled,Not Cancelled,Not Diverted,122,125,45:28:00,6:36,2:06,2:25,4:17
+8/27/2022,United Air Lines Inc.,"Denver, CO","Wichita, KS",17:48,18:18,30,20:16,21:18,62,Not Cancelled,Not Cancelled,Not Diverted,88,120,0:30,22:47,0:32,0:16,0:03
+10/8/2022,Endeavor Air Inc.,"Richmond, VA","New York, NY",8:50,8:46,-4,10:13,9:56,-17,Not Cancelled,Not Cancelled,Not Diverted,83,70,5:03,21:19,12:18,2:56,20:50
+3/16/2020,American Airlines Inc.,"San Antonio, TX","Miami, FL",6:00,5:56,-4,9:48,9:27,-21,Not Cancelled,Not Cancelled,Not Diverted,168,151,19:02,8:49,2:58,3:09,20:47
+10/23/2019,Delta Air Lines Inc.,"San Francisco, CA","New York, NY",6:15,6:16,1,14:45,14:28,-17,Not Cancelled,Not Cancelled,Not Diverted,330,312,29:36:00,10:43,7:44,0:45,12:45
+12/26/2020,United Air Lines Inc.,"Washington, DC","Miami, FL",17:45,17:53,8,20:28,20:24,-4,Not Cancelled,Not Cancelled,Not Diverted,163,151,21:01,18:28,6:41,2:16,18:58
+12/23/2022,Frontier Airlines Inc.,"San Diego, CA","Denver, CO",6:25,13:24,-2,9:59,15:06,-7,Cancelled,,Not Diverted,154,120,34:25:00,6:40,12:08,2:11,11:47
+6/27/2020,SkyWest Airlines Inc.,"San Diego, CA","Seattle, WA",21:05,20:57,-8,23:50,23:52,2,Not Cancelled,Not Cancelled,Not Diverted,165,175,26:03:00,15:14,11:47,1:46,5:36
+10/11/2022,American Airlines Inc.,"Columbus, OH","Dallas/Fort Worth, TX",16:52,16:48,-4,18:40,18:25,-15,Not Cancelled,Not Cancelled,Not Diverted,168,157,43:13:00,14:38,2:32,3:43,5:39
+7/10/2022,SkyWest Airlines Inc.,"Phoenix, AZ","Roswell, NM",18:55,18:49,-6,21:32,21:16,-16,Not Cancelled,Not Cancelled,Not Diverted,97,87,11:12,15:55,7:17,2:54,8:53
+3/18/2021,Delta Air Lines Inc.,"Baltimore, MD","Minneapolis, MN",18:33,21:43,190,20:20,23:24,184,Not Cancelled,Not Cancelled,Not Diverted,167,161,3:04,14:38,11:56,3:09,17:23
+2/15/2021,Delta Air Lines Inc.,"Newark, NJ","Atlanta, GA",18:45,18:33,-12,21:15,21:15,0,Not Cancelled,Not Cancelled,Not Diverted,150,162,38:12:00,11:01,11:27,2:18,0:21
+12/9/2020,Southwest Airlines Co.,"Chicago, IL","Orlando, FL",14:50,14:41,-9,18:25,17:57,-28,Not Cancelled,Not Cancelled,Not Diverted,155,136,4:17,8:04,13:40,3:34,1:02
+12/29/2022,Alaska Airlines Inc.,"San Jose, CA","Kona, HI",7:40,7:32,-8,11:10,10:54,-16,Not Cancelled,Not Cancelled,Not Diverted,330,322,5:03,8:31,2:36,4:16,24:57:00
+2/26/2019,PSA Airlines Inc.,"Pittsburgh, PA","Washington, DC",15:01,14:52,-9,16:19,15:57,-22,Not Cancelled,Not Cancelled,Not Diverted,78,65,12:56,0:10,14:13,4:58,4:02
+4/2/2019,Envoy Air,"New York, NY","Wilmington, NC",20:05,19:55,-10,21:57,21:58,1,Not Cancelled,Not Cancelled,Not Diverted,112,123,17:12,7:30,12:43,2:18,11:13
+3/1/2020,Spirit Air Lines,"Fort Lauderdale, FL","Columbus, OH",21:05,21:02,-3,23:44,23:46,2,Not Cancelled,Not Cancelled,Not Diverted,159,164,37:06:00,7:57,3:45,1:59,16:38
+9/28/2020,SkyWest Airlines Inc.,"Denver, CO",,14:35,14:30,-5,15:51,15:30,-21,Not Cancelled,Not Cancelled,Not Diverted,76,60,34:22:00,3:02,8:30,3:14,11:06
+7/26/2020,Envoy Air,"Rochester, NY","Chicago, IL",6:41,6:36,-5,7:31,7:20,-11,Not Cancelled,Not Cancelled,Not Diverted,110,104,29:25:00,23:00,11:42,2:23,10:10
+4/26/2021,SkyWest Airlines Inc.,"Los Angeles, CA","Reno, NV",8:16,9:08,52,9:47,10:30,43,Not Cancelled,Not Cancelled,Not Diverted,91,82,0:43,12:30,9:28,1:14,12:39
+9/16/2022,Delta Air Lines Inc.,"Atlanta, GA","Phoenix, AZ",11:32,11:26,-6,12:20,12:23,3,Not Cancelled,Not Cancelled,Not Diverted,228,237,35:59:00,17:56,2:33,,17:55
+8/5/2019,Delta Air Lines Inc.,"Albany, NY","Atlanta, GA",18:20,18:23,3,20:58,20:56,-2,Not Cancelled,Not Cancelled,Not Diverted,158,153,24:15:00,19:18,6:05,0:09,10:43
+11/3/2022,Southwest Airlines Co.,"Los Angeles, CA","Sacramento, CA",12:35,12:30,-5,13:55,13:51,-4,Not Cancelled,Not Cancelled,Not Diverted,80,81,9:04,17:05,13:06,1:11,28:27:00
+7/5/2022,Republic Airline,"Traverse City, MI","Boston, MA",11:20,11:14,-6,13:38,13:11,-27,Not Cancelled,Not Cancelled,Not Diverted,138,117,18:39,22:28,2:24,1:29,10:09
+9/17/2019,American Airlines Inc.,"San Francisco, CA","Miami, FL",7:10,7:04,-6,15:50,15:24,-26,Not Cancelled,Not Cancelled,Not Diverted,340,320,35:44:00,17:51,5:12,0:55,14:55
+6/6/2021,JetBlue Airways,"West Palm Beach/Palm Beach, FL","Newark, NJ",10:40,10:36,-4,13:30,13:28,-2,Not Cancelled,Not Cancelled,Not Diverted,170,172,12:56,13:15,8:47,4:46,21:47
+3/2/2019,United Air Lines Inc.,"Detroit, MI","Denver, CO",7:05,7:06,1,8:25,8:30,5,Not Cancelled,Not Cancelled,Not Diverted,200,204,5:42,5:23,3:01,3:06,27:29:00
+12/21/2019,United Air Lines Inc.,"Chicago, IL","Orlando, FL",10:04,10:06,2,13:52,14:16,24,Not Cancelled,Not Cancelled,Not Diverted,168,,8:36,19:11,0:24,0:54,9:51
+8/6/2022,American Airlines Inc.,"Austin, TX","Charlotte, NC",15:25,16:24,59,19:12,20:29,77,Not Cancelled,Not Cancelled,Not Diverted,167,185,0:59,6:10,0:18,3:02,12:06
+10/4/2021,Alaska Airlines Inc.,"Seattle, WA","Lihue, HI",11:30,12:08,38,14:49,15:13,24,Not Cancelled,Not Cancelled,Not Diverted,379,365,0:24,20:48,3:51,4:06,3:40
+1/11/2022,Southwest Airlines Co.,"Fresno, CA","Las Vegas, NV",6:40,6:36,-4,7:40,7:44,4,Not Cancelled,Not Cancelled,Not Diverted,60,68,31:05:00,6:44,3:50,1:42,3:25
+7/24/2022,Envoy Air,"Dallas/Fort Worth, TX","Waco, TX",15:05,15:32,27,15:49,16:19,30,Not Cancelled,Not Cancelled,Not Diverted,44,47,17:23,20:58,0:03,4:57,0:27
+8/13/2023,SkyWest Airlines Inc.,"Pellston, MI","Detroit, MI",6:35,6:29,-6,7:45,7:37,-8,Not Cancelled,Not Cancelled,Not Diverted,70,68,22:50,13:16,2:12,3:21,15:22
+11/21/2019,American Airlines Inc.,"New York, NY","Washington, DC",8:00,7:53,-7,9:25,9:01,-24,Not Cancelled,Not Cancelled,Not Diverted,85,68,22:38,11:11,0:50,3:44,7:47
+6/4/2021,Delta Air Lines Inc.,"New York, NY","Detroit, MI",17:45,21:20,215,20:00,22:53,173,Not Cancelled,Not Cancelled,Not Diverted,135,93,30:50:00,17:10,0:11,3:18,2:53
+9/17/2019,American Airlines Inc.,"San Francisco, CA","Miami, FL",7:10,7:04,-6,15:50,15:24,-26,Not Cancelled,Not Cancelled,Not Diverted,340,320,35:44:00,17:51,5:12,0:55,14:55
+6/6/2021,JetBlue Airways,"West Palm Beach/Palm Beach, FL","Newark, NJ",10:40,10:36,-4,13:30,13:28,-2,Not Cancelled,Not Cancelled,Not Diverted,170,172,12:56,13:15,8:47,4:46,21:47
+3/2/2019,United Air Lines Inc.,"Detroit, MI","Denver, CO",7:05,7:06,1,8:25,8:30,5,Not Cancelled,Not Cancelled,Not Diverted,200,204,5:42,5:23,3:01,3:06,27:29:00
+12/21/2019,United Air Lines Inc.,"Chicago, IL","Orlando, FL",10:04,10:06,2,13:52,14:16,24,Not Cancelled,Not Cancelled,Not Diverted,168,,8:36,19:11,0:24,0:54,9:51
+8/6/2022,American Airlines Inc.,"Austin, TX","Charlotte, NC",15:25,16:24,59,19:12,20:29,77,Not Cancelled,Not Cancelled,Not Diverted,167,185,0:59,6:10,0:18,3:02,12:06
+10/4/2021,Alaska Airlines Inc.,"Seattle, WA","Lihue, HI",11:30,12:08,38,14:49,15:13,24,Not Cancelled,Not Cancelled,Not Diverted,379,365,0:24,20:48,3:51,4:06,3:40
+1/11/2022,Southwest Airlines Co.,"Fresno, CA","Las Vegas, NV",6:40,6:36,-4,7:40,7:44,4,Not Cancelled,Not Cancelled,Not Diverted,60,68,31:05:00,6:44,3:50,1:42,3:25
+7/24/2022,Envoy Air,"Dallas/Fort Worth, TX","Waco, TX",15:05,15:32,27,15:49,16:19,30,Not Cancelled,Not Cancelled,Not Diverted,44,47,17:23,20:58,0:03,4:57,0:27
+8/13/2023,SkyWest Airlines Inc.,"Pellston, MI","Detroit, MI",6:35,6:29,-6,7:45,7:37,-8,Not Cancelled,Not Cancelled,Not Diverted,70,68,22:50,13:16,2:12,3:21,15:22
+11/21/2019,American Airlines Inc.,"New York, NY","Washington, DC",8:00,7:53,-7,9:25,9:01,-24,Not Cancelled,Not Cancelled,Not Diverted,85,68,22:38,11:11,0:50,3:44,7:47
+6/4/2021,Delta Air Lines Inc.,"New York, NY","Detroit, MI",17:45,21:20,215,20:00,22:53,173,Not Cancelled,Not Cancelled,Not Diverted,135,93,30:50:00,17:10,0:11,3:18,2:53

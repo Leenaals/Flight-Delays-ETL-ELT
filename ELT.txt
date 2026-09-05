@@ -1,0 +1,27 @@
+DROP TABLE IF EXISTS final_flight_delays;
+
+CREATE TABLE final_flight_delays AS
+SELECT
+    "Flight_Date" AS flight_date,
+    COALESCE("Airline_Name", 'UNKNOWN') AS airline,
+    COALESCE("Origin_City", 'UNKNOWN') AS origin_airport,
+    COALESCE("Destination_City", 'UNKNOWN') AS destination_airport,
+    COALESCE("Departure_Delay_Minutes", 0) AS departure_delay,
+    COALESCE("Arrival_Delay_Minutes", 0) AS arrival_delay,
+    COALESCE("Departure_Delay_Minutes", 0)
+    + COALESCE("Arrival_Delay_Minutes", 0) AS total_delay,
+    CASE
+        WHEN LOWER(COALESCE("Cancelled_Flag", '')) LIKE '%cancelled%'
+        THEN 'CANCELLED'
+        WHEN LOWER(COALESCE("Diverted_Flag", '')) LIKE '%diverted%'
+        THEN 'DIVERTED'
+        WHEN COALESCE("Departure_Delay_Minutes", 0)
+           + COALESCE("Arrival_Delay_Minutes", 0) > 15
+        THEN 'DELAYED'
+        ELSE 'ON TIME'
+    END AS delay_status,
+    'KAGGLE' AS data_source
+FROM stage_kaggle_raw;
+
+
+SELECT * FROM final_flight_delays LIMIT 10;
